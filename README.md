@@ -48,6 +48,7 @@ Requires CMake >= 3.16 and a C++17 compiler.
 ```bash
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j
+ctest --test-dir build --output-on-failure   # unit + end-to-end tests, ~10 s
 ```
 
 ## Usage
@@ -106,10 +107,17 @@ python3 experiments/run_bench.py my-config -- --set alns.max_remove=40
 python3 experiments/compare.py my-config other-config
 ```
 
+## Contributing
+
+`CLAUDE.md` describes the build and test workflow, coding conventions,
+benchmarking rules and lessons learned; it is read automatically by Claude
+Code and is a good starting point for anyone extending the solver.
+
 ## Repository layout
 
 ```
 include/, src/             solver (C++17)
+tests/                     unit tests (ctest)
 data/                      Gehring & Homberger 1000-customer instances
 experiments/               tuning tools, experiment results, research log,
                            best known solutions, independent solution checker
