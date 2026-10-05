@@ -1,0 +1,1626 @@
+config,args,seconds,instance,seed,vehicles,distance,bks_vehicles,bks_distance
+ils-base,--search ils,30,C1_10_2,1,94,42226.82,90,42222.96
+ils-base,--search ils,30,C1_10_2,2,94,42241.85,90,42222.96
+ils-base,--search ils,30,C1_10_6,1,100,42473.07,99,43830.21
+ils-base,--search ils,30,C1_10_6,2,100,42473.07,99,43830.21
+ils-base,--search ils,30,C2_10_3,1,29,16930.54,28,16829.47
+ils-base,--search ils,30,C2_10_3,2,29,16562.03,28,16829.47
+ils-base,--search ils,30,C2_10_6,1,30,16385.42,29,16863.71
+ils-base,--search ils,30,C2_10_6,2,30,16362.27,29,16863.71
+ils-base,--search ils,30,R1_10_1,1,100,55920.42,100,53380.18
+ils-base,--search ils,30,R1_10_1,2,100,55917.93,100,53380.18
+ils-base,--search ils,30,R1_10_5,1,92,58946.13,91,50445.39
+ils-base,--search ils,30,R1_10_5,2,92,57129.06,91,50445.39
+ils-base,--search ils,30,R2_10_1,1,19,44561.74,19,42182.57
+ils-base,--search ils,30,R2_10_1,2,19,45140.0,19,42182.57
+ils-base,--search ils,30,R2_10_5,1,19,37979.75,19,36216.05
+ils-base,--search ils,30,R2_10_5,2,19,37670.9,19,36216.05
+ils-base,--search ils,30,RC1_10_1,1,90,57068.76,90,45830.62
+ils-base,--search ils,30,RC1_10_1,2,90,58824.69,90,45830.62
+ils-base,--search ils,30,RC1_10_5,1,90,55896.79,90,45069.37
+ils-base,--search ils,30,RC1_10_5,2,90,54595.95,90,45069.37
+ils-base,--search ils,30,RC2_10_1,1,22,30124.92,20,30276.27
+ils-base,--search ils,30,RC2_10_1,2,21,30765.42,20,30276.27
+ils-base,--search ils,30,RC2_10_5,1,18,29626.35,18,27067.04
+ils-base,--search ils,30,RC2_10_5,2,18,29146.43,18,27067.04
+ils-base,--search ils,30,RC2_10_9,1,18,24513.37,18,22919.42
+ils-base,--search ils,30,RC2_10_9,2,18,24942.04,18,22919.42
+alns-base,--search alns,30,C1_10_2,1,95,42263.65,90,42222.96
+alns-base,--search alns,30,C1_10_2,2,95,42059.43,90,42222.96
+alns-base,--search alns,30,C1_10_6,1,100,42472.24,99,43830.21
+alns-base,--search alns,30,C1_10_6,2,100,42472.97,99,43830.21
+alns-base,--search alns,30,C2_10_3,1,29,16991.79,28,16829.47
+alns-base,--search alns,30,C2_10_3,2,29,16776.1,28,16829.47
+alns-base,--search alns,30,C2_10_6,1,30,16429.02,29,16863.71
+alns-base,--search alns,30,C2_10_6,2,30,16478.11,29,16863.71
+alns-base,--search alns,30,R1_10_1,1,100,55549.27,100,53380.18
+alns-base,--search alns,30,R1_10_1,2,100,55885.86,100,53380.18
+alns-base,--search alns,30,R1_10_5,1,92,57067.91,91,50445.39
+alns-base,--search alns,30,R1_10_5,2,92,55583.06,91,50445.39
+alns-base,--search alns,30,R2_10_1,1,19,45132.15,19,42182.57
+alns-base,--search alns,30,R2_10_1,2,19,45869.61,19,42182.57
+alns-base,--search alns,30,R2_10_5,1,19,38951.11,19,36216.05
+alns-base,--search alns,30,R2_10_5,2,19,38630.46,19,36216.05
+alns-base,--search alns,30,RC1_10_1,1,90,55801.62,90,45830.62
+alns-base,--search alns,30,RC1_10_1,2,90,55549.62,90,45830.62
+alns-base,--search alns,30,RC1_10_5,1,90,53248.75,90,45069.37
+alns-base,--search alns,30,RC1_10_5,2,90,53286.51,90,45069.37
+alns-base,--search alns,30,RC2_10_1,1,22,30427.66,20,30276.27
+alns-base,--search alns,30,RC2_10_1,2,21,31283.03,20,30276.27
+alns-base,--search alns,30,RC2_10_5,1,19,28092.32,18,27067.04
+alns-base,--search alns,30,RC2_10_5,2,18,30682.49,18,27067.04
+alns-base,--search alns,30,RC2_10_9,1,18,25711.3,18,22919.42
+alns-base,--search alns,30,RC2_10_9,2,18,25946.18,18,22919.42
+ils-norev,--search ils --set ls.reversed_runs=0,30,C1_10_2,1,94,41965.66,90,42222.96
+ils-norev,--search ils --set ls.reversed_runs=0,30,C1_10_2,2,93,42695.49,90,42222.96
+ils-norev,--search ils --set ls.reversed_runs=0,30,C1_10_6,1,100,42472.22,99,43830.21
+ils-norev,--search ils --set ls.reversed_runs=0,30,C1_10_6,2,100,42473.15,99,43830.21
+ils-norev,--search ils --set ls.reversed_runs=0,30,C2_10_3,1,29,16502.14,28,16829.47
+ils-norev,--search ils --set ls.reversed_runs=0,30,C2_10_3,2,29,16615.58,28,16829.47
+ils-norev,--search ils --set ls.reversed_runs=0,30,C2_10_6,1,30,16365.67,29,16863.71
+ils-norev,--search ils --set ls.reversed_runs=0,30,C2_10_6,2,30,16363.35,29,16863.71
+ils-norev,--search ils --set ls.reversed_runs=0,30,R1_10_1,1,100,55418.96,100,53380.18
+ils-norev,--search ils --set ls.reversed_runs=0,30,R1_10_1,2,100,55519.56,100,53380.18
+ils-norev,--search ils --set ls.reversed_runs=0,30,R1_10_5,1,92,56351.15,91,50445.39
+ils-norev,--search ils --set ls.reversed_runs=0,30,R1_10_5,2,91,81957.61,91,50445.39
+ils-norev,--search ils --set ls.reversed_runs=0,30,R2_10_1,1,19,44521.52,19,42182.57
+ils-norev,--search ils --set ls.reversed_runs=0,30,R2_10_1,2,19,44531.79,19,42182.57
+ils-norev,--search ils --set ls.reversed_runs=0,30,R2_10_5,1,19,37519.68,19,36216.05
+ils-norev,--search ils --set ls.reversed_runs=0,30,R2_10_5,2,19,37883.01,19,36216.05
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC1_10_1,1,90,57407.44,90,45830.62
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC1_10_1,2,90,55817.63,90,45830.62
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC1_10_5,1,90,53824.95,90,45069.37
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC1_10_5,2,90,55685.56,90,45069.37
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC2_10_1,1,22,29985.05,20,30276.27
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC2_10_1,2,21,30690.72,20,30276.27
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC2_10_5,1,18,28709.4,18,27067.04
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC2_10_5,2,18,29325.42,18,27067.04
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC2_10_9,1,18,25074.56,18,22919.42
+ils-norev,--search ils --set ls.reversed_runs=0,30,RC2_10_9,2,18,24586.32,18,22919.42
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,C1_10_2,1,95,42185.55,90,42222.96
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,C1_10_2,2,95,42696.09,90,42222.96
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,C1_10_6,1,100,42473.04,99,43830.21
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,C1_10_6,2,100,42473.07,99,43830.21
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,C2_10_3,1,29,16472.31,28,16829.47
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,C2_10_3,2,29,16663.21,28,16829.47
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,C2_10_6,1,30,16378.54,29,16863.71
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,C2_10_6,2,30,16361.73,29,16863.71
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,R1_10_1,1,100,55319.33,100,53380.18
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,R1_10_1,2,100,55443.99,100,53380.18
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,R1_10_5,1,91,83397.18,91,50445.39
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,R1_10_5,2,92,57315.68,91,50445.39
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,R2_10_1,1,19,44818.53,19,42182.57
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,R2_10_1,2,19,44865.58,19,42182.57
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,R2_10_5,1,19,37516.46,19,36216.05
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,R2_10_5,2,19,37897.73,19,36216.05
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC1_10_1,1,90,57621.56,90,45830.62
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC1_10_1,2,90,54855.25,90,45830.62
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC1_10_5,1,90,54193.97,90,45069.37
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC1_10_5,2,90,53815.39,90,45069.37
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC2_10_1,1,21,30691.74,20,30276.27
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC2_10_1,2,21,30460.86,20,30276.27
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC2_10_5,1,18,28561.34,18,27067.04
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC2_10_5,2,18,28458.71,18,27067.04
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC2_10_9,1,18,24552.64,18,22919.42
+ils-run2norev,--search ils --set ls.max_run=2 --set ls.reversed_runs=0,30,RC2_10_9,2,18,24144.31,18,22919.42
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C1_10_2,1,94,42241.11,90,42222.96
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C1_10_2,2,93,42785.47,90,42222.96
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C1_10_6,1,100,42474.23,99,43830.21
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C1_10_6,2,100,42472.24,99,43830.21
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C2_10_3,1,29,16468.99,28,16829.47
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C2_10_3,2,29,16436.55,28,16829.47
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C2_10_6,1,30,16364.17,29,16863.71
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C2_10_6,2,30,16367.21,29,16863.71
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R1_10_1,1,100,55818.94,100,53380.18
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R1_10_1,2,100,55680.91,100,53380.18
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R1_10_5,1,91,82984.22,91,50445.39
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R1_10_5,2,91,86383.85,91,50445.39
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R2_10_1,1,19,44386.3,19,42182.57
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R2_10_1,2,19,44001.92,19,42182.57
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R2_10_5,1,19,37293.67,19,36216.05
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R2_10_5,2,19,37569.42,19,36216.05
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC1_10_1,1,90,57969.01,90,45830.62
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC1_10_1,2,90,57897.09,90,45830.62
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC1_10_5,1,90,53436.26,90,45069.37
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC1_10_5,2,90,52575.6,90,45069.37
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_1,1,21,30988.86,20,30276.27
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_1,2,21,30589.93,20,30276.27
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_5,1,18,29149.96,18,27067.04
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_5,2,18,28561.8,18,27067.04
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_9,1,18,24211.36,18,22919.42
+ils-run2norev-k20,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_9,2,18,24234.83,18,22919.42
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C1_10_2,1,93,41970.25,90,42222.96
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C1_10_2,2,94,42307.58,90,42222.96
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C1_10_6,1,100,42472.5,99,43830.21
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C1_10_6,2,100,42472.75,99,43830.21
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C2_10_3,1,29,16638.21,28,16829.47
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C2_10_3,2,29,16679.34,28,16829.47
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C2_10_6,1,30,16373.85,29,16863.71
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,C2_10_6,2,30,16374.85,29,16863.71
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R1_10_1,1,100,55892.49,100,53380.18
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R1_10_1,2,100,55899.02,100,53380.18
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R1_10_5,1,91,84260.57,91,50445.39
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R1_10_5,2,91,87915.79,91,50445.39
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R2_10_1,1,19,44652.78,19,42182.57
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R2_10_1,2,19,44211.74,19,42182.57
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R2_10_5,1,19,37619.58,19,36216.05
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,R2_10_5,2,19,37730.59,19,36216.05
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC1_10_1,1,90,55837.4,90,45830.62
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC1_10_1,2,90,56003.09,90,45830.62
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC1_10_5,1,90,53914.68,90,45069.37
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC1_10_5,2,90,52679.14,90,45069.37
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_1,1,21,30471.02,20,30276.27
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_1,2,21,30291.16,20,30276.27
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_5,1,18,28848.25,18,27067.04
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_5,2,18,28338.75,18,27067.04
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_9,1,18,24272.03,18,22919.42
+ils-run1-k20,--search ils --set ls.max_run=1 --set ls.reversed_runs=0 --set ls.num_neighbors=20,30,RC2_10_9,2,18,24079.7,18,22919.42
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,C1_10_2,1,94,42081.32,90,42222.96
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,C1_10_2,2,94,42301.5,90,42222.96
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,C1_10_6,1,100,42477.17,99,43830.21
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,C1_10_6,2,100,42479.51,99,43830.21
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,C2_10_3,1,29,16641.95,28,16829.47
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,C2_10_3,2,29,16432.13,28,16829.47
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,C2_10_6,1,30,16349.96,29,16863.71
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,C2_10_6,2,30,16358.55,29,16863.71
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,R1_10_1,1,100,56073.29,100,53380.18
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,R1_10_1,2,100,56238.11,100,53380.18
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,R1_10_5,1,91,86002.14,91,50445.39
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,R1_10_5,2,91,87403.54,91,50445.39
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,R2_10_1,1,19,44739.11,19,42182.57
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,R2_10_1,2,19,44353.65,19,42182.57
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,R2_10_5,1,19,37902.01,19,36216.05
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,R2_10_5,2,19,37894.91,19,36216.05
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC1_10_1,1,90,54977.81,90,45830.62
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC1_10_1,2,90,57324.14,90,45830.62
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC1_10_5,1,90,54335.03,90,45069.37
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC1_10_5,2,90,54036.14,90,45069.37
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC2_10_1,1,21,30390.55,20,30276.27
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC2_10_1,2,21,30429.19,20,30276.27
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC2_10_5,1,18,28649.74,18,27067.04
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC2_10_5,2,18,28864.39,18,27067.04
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC2_10_9,1,18,24276.97,18,22919.42
+ils-run2norev-k15,--search ils --set ls.max_run=2 --set ls.reversed_runs=0 --set ls.num_neighbors=15,30,RC2_10_9,2,18,24473.79,18,22919.42
+ils-k20,--search ils,30,C1_10_2,1,95,42090.81,90,42222.96
+ils-k20,--search ils,30,C1_10_2,2,95,42346.2,90,42222.96
+ils-k20,--search ils,30,C1_10_6,1,100,42474.23,99,43830.21
+ils-k20,--search ils,30,C1_10_6,2,100,42474.05,99,43830.21
+ils-k20,--search ils,30,C2_10_3,1,29,16426.74,28,16829.47
+ils-k20,--search ils,30,C2_10_3,2,29,16463.64,28,16829.47
+ils-k20,--search ils,30,C2_10_6,1,30,16364.42,29,16863.71
+ils-k20,--search ils,30,C2_10_6,2,30,16358.36,29,16863.71
+ils-k20,--search ils,30,R1_10_1,1,100,55531.7,100,53380.18
+ils-k20,--search ils,30,R1_10_1,2,100,55410.51,100,53380.18
+ils-k20,--search ils,30,R1_10_5,1,91,82984.22,91,50445.39
+ils-k20,--search ils,30,R1_10_5,2,91,86383.85,91,50445.39
+ils-k20,--search ils,30,R2_10_1,1,19,44204.82,19,42182.57
+ils-k20,--search ils,30,R2_10_1,2,19,44475.56,19,42182.57
+ils-k20,--search ils,30,R2_10_5,1,19,37820.42,19,36216.05
+ils-k20,--search ils,30,R2_10_5,2,19,37845.86,19,36216.05
+ils-k20,--search ils,30,RC1_10_1,1,90,60184.5,90,45830.62
+ils-k20,--search ils,30,RC1_10_1,2,90,57409.65,90,45830.62
+ils-k20,--search ils,30,RC1_10_5,1,90,52906.34,90,45069.37
+ils-k20,--search ils,30,RC1_10_5,2,90,52285.28,90,45069.37
+ils-k20,--search ils,30,RC2_10_1,1,21,31592.05,20,30276.27
+ils-k20,--search ils,30,RC2_10_1,2,21,30758.77,20,30276.27
+ils-k20,--search ils,30,RC2_10_5,1,18,29651.47,18,27067.04
+ils-k20,--search ils,30,RC2_10_5,2,18,28703.93,18,27067.04
+ils-k20,--search ils,30,RC2_10_9,1,18,24164.43,18,22919.42
+ils-k20,--search ils,30,RC2_10_9,2,18,24529.05,18,22919.42
+ils-soft1,--search ils --set soft.tw=1,30,C1_10_2,1,95,42698.96,90,42222.96
+ils-soft1,--search ils --set soft.tw=1,30,C1_10_2,2,96,42335.4,90,42222.96
+ils-soft1,--search ils --set soft.tw=1,30,C1_10_6,1,100,42473.8,99,43830.21
+ils-soft1,--search ils --set soft.tw=1,30,C1_10_6,2,100,42473.71,99,43830.21
+ils-soft1,--search ils --set soft.tw=1,30,C2_10_3,1,29,16593.11,28,16829.47
+ils-soft1,--search ils --set soft.tw=1,30,C2_10_3,2,29,18945.8,28,16829.47
+ils-soft1,--search ils --set soft.tw=1,30,C2_10_6,1,30,16393.28,29,16863.71
+ils-soft1,--search ils --set soft.tw=1,30,C2_10_6,2,30,16367.29,29,16863.71
+ils-soft1,--search ils --set soft.tw=1,30,R1_10_1,1,100,62879.36,100,53380.18
+ils-soft1,--search ils --set soft.tw=1,30,R1_10_1,2,100,62629.65,100,53380.18
+ils-soft1,--search ils --set soft.tw=1,30,R1_10_5,1,91,83228.41,91,50445.39
+ils-soft1,--search ils --set soft.tw=1,30,R1_10_5,2,91,87053.36,91,50445.39
+ils-soft1,--search ils --set soft.tw=1,30,R2_10_1,1,19,53958.57,19,42182.57
+ils-soft1,--search ils --set soft.tw=1,30,R2_10_1,2,19,53759.05,19,42182.57
+ils-soft1,--search ils --set soft.tw=1,30,R2_10_5,1,19,38392.47,19,36216.05
+ils-soft1,--search ils --set soft.tw=1,30,R2_10_5,2,19,39158.55,19,36216.05
+ils-soft1,--search ils --set soft.tw=1,30,RC1_10_1,1,90,65680.39,90,45830.62
+ils-soft1,--search ils --set soft.tw=1,30,RC1_10_1,2,90,66634.38,90,45830.62
+ils-soft1,--search ils --set soft.tw=1,30,RC1_10_5,1,90,55558.54,90,45069.37
+ils-soft1,--search ils --set soft.tw=1,30,RC1_10_5,2,90,54080.17,90,45069.37
+ils-soft1,--search ils --set soft.tw=1,30,RC2_10_1,1,21,31892.34,20,30276.27
+ils-soft1,--search ils --set soft.tw=1,30,RC2_10_1,2,21,32810.39,20,30276.27
+ils-soft1,--search ils --set soft.tw=1,30,RC2_10_5,1,18,35401.02,18,27067.04
+ils-soft1,--search ils --set soft.tw=1,30,RC2_10_5,2,18,38436.32,18,27067.04
+ils-soft1,--search ils --set soft.tw=1,30,RC2_10_9,1,18,24093.38,18,22919.42
+ils-soft1,--search ils --set soft.tw=1,30,RC2_10_9,2,18,24537.28,18,22919.42
+ils-soft10,--search ils --set soft.tw=10,30,C1_10_2,1,95,42725.4,90,42222.96
+ils-soft10,--search ils --set soft.tw=10,30,C1_10_2,2,96,42190.86,90,42222.96
+ils-soft10,--search ils --set soft.tw=10,30,C1_10_6,1,100,42482.16,99,43830.21
+ils-soft10,--search ils --set soft.tw=10,30,C1_10_6,2,100,42473.04,99,43830.21
+ils-soft10,--search ils --set soft.tw=10,30,C2_10_3,1,29,16743.46,28,16829.47
+ils-soft10,--search ils --set soft.tw=10,30,C2_10_3,2,29,16462.57,28,16829.47
+ils-soft10,--search ils --set soft.tw=10,30,C2_10_6,1,30,16403.17,29,16863.71
+ils-soft10,--search ils --set soft.tw=10,30,C2_10_6,2,30,16427.97,29,16863.71
+ils-soft10,--search ils --set soft.tw=10,30,R1_10_1,1,100,56880.38,100,53380.18
+ils-soft10,--search ils --set soft.tw=10,30,R1_10_1,2,100,58578.93,100,53380.18
+ils-soft10,--search ils --set soft.tw=10,30,R1_10_5,1,91,83228.41,91,50445.39
+ils-soft10,--search ils --set soft.tw=10,30,R1_10_5,2,91,87053.36,91,50445.39
+ils-soft10,--search ils --set soft.tw=10,30,R2_10_1,1,19,50043.98,19,42182.57
+ils-soft10,--search ils --set soft.tw=10,30,R2_10_1,2,19,46161.93,19,42182.57
+ils-soft10,--search ils --set soft.tw=10,30,R2_10_5,1,19,38043.15,19,36216.05
+ils-soft10,--search ils --set soft.tw=10,30,R2_10_5,2,19,38312.71,19,36216.05
+ils-soft10,--search ils --set soft.tw=10,30,RC1_10_1,1,90,64890.59,90,45830.62
+ils-soft10,--search ils --set soft.tw=10,30,RC1_10_1,2,90,64343.36,90,45830.62
+ils-soft10,--search ils --set soft.tw=10,30,RC1_10_5,1,90,56208.11,90,45069.37
+ils-soft10,--search ils --set soft.tw=10,30,RC1_10_5,2,90,52474.93,90,45069.37
+ils-soft10,--search ils --set soft.tw=10,30,RC2_10_1,1,21,31849.61,20,30276.27
+ils-soft10,--search ils --set soft.tw=10,30,RC2_10_1,2,21,31509.56,20,30276.27
+ils-soft10,--search ils --set soft.tw=10,30,RC2_10_5,1,18,29897.93,18,27067.04
+ils-soft10,--search ils --set soft.tw=10,30,RC2_10_5,2,19,28225.24,18,27067.04
+ils-soft10,--search ils --set soft.tw=10,30,RC2_10_9,1,18,24533.64,18,22919.42
+ils-soft10,--search ils --set soft.tw=10,30,RC2_10_9,2,18,24570.39,18,22919.42
+alns-nols,--search alns --set alns.local_search=0,30,C1_10_2,1,94,42281.9,90,42222.96
+alns-nols,--search alns --set alns.local_search=0,30,C1_10_2,2,95,42148.24,90,42222.96
+alns-nols,--search alns --set alns.local_search=0,30,C1_10_6,1,100,42479.15,99,43830.21
+alns-nols,--search alns --set alns.local_search=0,30,C1_10_6,2,100,42474.43,99,43830.21
+alns-nols,--search alns --set alns.local_search=0,30,C2_10_3,1,29,16850.09,28,16829.47
+alns-nols,--search alns --set alns.local_search=0,30,C2_10_3,2,29,16965.59,28,16829.47
+alns-nols,--search alns --set alns.local_search=0,30,C2_10_6,1,30,16588.1,29,16863.71
+alns-nols,--search alns --set alns.local_search=0,30,C2_10_6,2,30,16761.65,29,16863.71
+alns-nols,--search alns --set alns.local_search=0,30,R1_10_1,1,100,56187.82,100,53380.18
+alns-nols,--search alns --set alns.local_search=0,30,R1_10_1,2,100,56243.99,100,53380.18
+alns-nols,--search alns --set alns.local_search=0,30,R1_10_5,1,91,58664.88,91,50445.39
+alns-nols,--search alns --set alns.local_search=0,30,R1_10_5,2,91,60514.65,91,50445.39
+alns-nols,--search alns --set alns.local_search=0,30,R2_10_1,1,19,43564.98,19,42182.57
+alns-nols,--search alns --set alns.local_search=0,30,R2_10_1,2,19,43690.98,19,42182.57
+alns-nols,--search alns --set alns.local_search=0,30,R2_10_5,1,19,37264.6,19,36216.05
+alns-nols,--search alns --set alns.local_search=0,30,R2_10_5,2,19,37603.55,19,36216.05
+alns-nols,--search alns --set alns.local_search=0,30,RC1_10_1,1,90,48855.74,90,45830.62
+alns-nols,--search alns --set alns.local_search=0,30,RC1_10_1,2,90,48354.04,90,45830.62
+alns-nols,--search alns --set alns.local_search=0,30,RC1_10_5,1,90,48388.24,90,45069.37
+alns-nols,--search alns --set alns.local_search=0,30,RC1_10_5,2,90,48070.08,90,45069.37
+alns-nols,--search alns --set alns.local_search=0,30,RC2_10_1,1,21,30815.71,20,30276.27
+alns-nols,--search alns --set alns.local_search=0,30,RC2_10_1,2,21,30605.26,20,30276.27
+alns-nols,--search alns --set alns.local_search=0,30,RC2_10_5,1,18,28728.18,18,27067.04
+alns-nols,--search alns --set alns.local_search=0,30,RC2_10_5,2,18,28017.95,18,27067.04
+alns-nols,--search alns --set alns.local_search=0,30,RC2_10_9,1,18,24281.23,18,22919.42
+alns-nols,--search alns --set alns.local_search=0,30,RC2_10_9,2,18,24655.83,18,22919.42
+alns-nols-v2,--search alns --set alns.local_search=0,30,C1_10_2,1,94,41928.04,90,42222.96
+alns-nols-v2,--search alns --set alns.local_search=0,30,C1_10_2,2,94,41636.29,90,42222.96
+alns-nols-v2,--search alns --set alns.local_search=0,30,C1_10_6,1,100,42490.18,99,43830.21
+alns-nols-v2,--search alns --set alns.local_search=0,30,C1_10_6,2,100,42489.35,99,43830.21
+alns-nols-v2,--search alns --set alns.local_search=0,30,C2_10_3,1,29,16597.27,28,16829.47
+alns-nols-v2,--search alns --set alns.local_search=0,30,C2_10_3,2,29,16764.48,28,16829.47
+alns-nols-v2,--search alns --set alns.local_search=0,30,C2_10_6,1,30,16464.72,29,16863.71
+alns-nols-v2,--search alns --set alns.local_search=0,30,C2_10_6,2,30,16541.63,29,16863.71
+alns-nols-v2,--search alns --set alns.local_search=0,30,R1_10_1,1,100,56732.21,100,53380.18
+alns-nols-v2,--search alns --set alns.local_search=0,30,R1_10_1,2,100,56600.6,100,53380.18
+alns-nols-v2,--search alns --set alns.local_search=0,30,R1_10_5,1,91,62581.34,91,50445.39
+alns-nols-v2,--search alns --set alns.local_search=0,30,R1_10_5,2,91,66120.28,91,50445.39
+alns-nols-v2,--search alns --set alns.local_search=0,30,R2_10_1,1,19,43877.57,19,42182.57
+alns-nols-v2,--search alns --set alns.local_search=0,30,R2_10_1,2,19,43689.36,19,42182.57
+alns-nols-v2,--search alns --set alns.local_search=0,30,R2_10_5,1,19,37448.37,19,36216.05
+alns-nols-v2,--search alns --set alns.local_search=0,30,R2_10_5,2,19,37324.55,19,36216.05
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC1_10_1,1,90,49687.14,90,45830.62
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC1_10_1,2,90,49529.96,90,45830.62
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC1_10_5,1,90,48594.01,90,45069.37
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC1_10_5,2,90,47912.46,90,45069.37
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC2_10_1,1,21,31320.07,20,30276.27
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC2_10_1,2,21,31047.88,20,30276.27
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC2_10_5,1,18,28567.91,18,27067.04
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC2_10_5,2,18,28498.78,18,27067.04
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC2_10_9,1,18,24030.23,18,22919.42
+alns-nols-v2,--search alns --set alns.local_search=0,30,RC2_10_9,2,18,24098.68,18,22919.42
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,C1_10_2,1,94,42202.29,90,42222.96
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,C1_10_2,2,94,41818.66,90,42222.96
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,C1_10_6,1,100,42484.76,99,43830.21
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,C1_10_6,2,100,42479.79,99,43830.21
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,C2_10_3,1,29,16651.1,28,16829.47
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,C2_10_3,2,29,16863.58,28,16829.47
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,C2_10_6,1,30,16439.57,29,16863.71
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,C2_10_6,2,30,16565.51,29,16863.71
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,R1_10_1,1,100,56339.1,100,53380.18
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,R1_10_1,2,100,56428.82,100,53380.18
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,R1_10_5,1,91,64329.59,91,50445.39
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,R1_10_5,2,91,63479.77,91,50445.39
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,R2_10_1,1,19,43820.29,19,42182.57
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,R2_10_1,2,19,43385.69,19,42182.57
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,R2_10_5,1,19,37336.95,19,36216.05
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,R2_10_5,2,19,37678.56,19,36216.05
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC1_10_1,1,90,49740.66,90,45830.62
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC1_10_1,2,90,49505.99,90,45830.62
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC1_10_5,1,90,48657.66,90,45069.37
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC1_10_5,2,90,48151.16,90,45069.37
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC2_10_1,1,21,30531.84,20,30276.27
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC2_10_1,2,21,30773.9,20,30276.27
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC2_10_5,1,18,28430.84,18,27067.04
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC2_10_5,2,18,28391.2,18,27067.04
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC2_10_9,1,18,23851.94,18,22919.42
+nols-n40,--search alns --set alns.local_search=0 --set alns.insertion_neighbors=40,30,RC2_10_9,2,18,23710.65,18,22919.42
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,C1_10_2,1,94,42169.83,90,42222.96
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,C1_10_2,2,95,42089.69,90,42222.96
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,C1_10_6,1,100,42485.13,99,43830.21
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,C1_10_6,2,100,42485.45,99,43830.21
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,C2_10_3,1,29,17761.38,28,16829.47
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,C2_10_3,2,29,16581.69,28,16829.47
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,C2_10_6,1,30,16541.09,29,16863.71
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,C2_10_6,2,30,16831.2,29,16863.71
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,R1_10_1,1,100,56525.52,100,53380.18
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,R1_10_1,2,100,56437.74,100,53380.18
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,R1_10_5,1,91,64226.55,91,50445.39
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,R1_10_5,2,91,65690.38,91,50445.39
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,R2_10_1,1,19,43572.79,19,42182.57
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,R2_10_1,2,19,44146.39,19,42182.57
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,R2_10_5,1,19,37493.6,19,36216.05
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,R2_10_5,2,19,37656.33,19,36216.05
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC1_10_1,1,90,49588.71,90,45830.62
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC1_10_1,2,90,49425.99,90,45830.62
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC1_10_5,1,90,48028.55,90,45069.37
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC1_10_5,2,90,47815.07,90,45069.37
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC2_10_1,1,21,31156.25,20,30276.27
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC2_10_1,2,21,30990.9,20,30276.27
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC2_10_5,1,18,29298.51,18,27067.04
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC2_10_5,2,18,28471.91,18,27067.04
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC2_10_9,1,18,24038.67,18,22919.42
+nols-sw003,--search alns --set alns.local_search=0 --set alns.start_worse=0.003,30,RC2_10_9,2,18,24055.05,18,22919.42
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,C1_10_2,1,94,42408.39,90,42222.96
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,C1_10_2,2,94,42251.78,90,42222.96
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,C1_10_6,1,100,42501.26,99,43830.21
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,C1_10_6,2,100,42502.74,99,43830.21
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,C2_10_3,1,29,16660.48,28,16829.47
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,C2_10_3,2,29,16661.5,28,16829.47
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,C2_10_6,1,30,16582.08,29,16863.71
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,C2_10_6,2,30,16524.03,29,16863.71
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,R1_10_1,1,100,58644.79,100,53380.18
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,R1_10_1,2,100,57897.84,100,53380.18
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,R1_10_5,1,91,68448.59,91,50445.39
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,R1_10_5,2,91,66584.34,91,50445.39
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,R2_10_1,1,19,44312.91,19,42182.57
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,R2_10_1,2,19,44574.55,19,42182.57
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,R2_10_5,1,19,37513.18,19,36216.05
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,R2_10_5,2,19,37601.22,19,36216.05
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC1_10_1,1,90,51308.48,90,45830.62
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC1_10_1,2,90,51648.0,90,45830.62
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC1_10_5,1,90,50653.31,90,45069.37
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC1_10_5,2,90,50798.63,90,45069.37
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC2_10_1,1,21,31327.87,20,30276.27
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC2_10_1,2,21,31544.24,20,30276.27
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC2_10_5,1,18,28781.67,18,27067.04
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC2_10_5,2,18,28933.94,18,27067.04
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC2_10_9,1,18,24213.98,18,22919.42
+nols-sw03,--search alns --set alns.local_search=0 --set alns.start_worse=0.03,30,RC2_10_9,2,18,24232.19,18,22919.42
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,C1_10_2,1,94,42248.94,90,42222.96
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,C1_10_2,2,94,42219.98,90,42222.96
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,C1_10_6,1,100,42489.18,99,43830.21
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,C1_10_6,2,100,42488.71,99,43830.21
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,C2_10_3,1,29,16712.01,28,16829.47
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,C2_10_3,2,29,16746.71,28,16829.47
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,C2_10_6,1,30,16483.44,29,16863.71
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,C2_10_6,2,30,16472.84,29,16863.71
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,R1_10_1,1,100,57123.67,100,53380.18
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,R1_10_1,2,100,56786.41,100,53380.18
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,R1_10_5,1,91,66052.21,91,50445.39
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,R1_10_5,2,91,65154.76,91,50445.39
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,R2_10_1,1,19,43858.47,19,42182.57
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,R2_10_1,2,19,44081.67,19,42182.57
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,R2_10_5,1,19,37463.0,19,36216.05
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,R2_10_5,2,19,37386.14,19,36216.05
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC1_10_1,1,90,49633.04,90,45830.62
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC1_10_1,2,90,49940.92,90,45830.62
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC1_10_5,1,90,48853.33,90,45069.37
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC1_10_5,2,90,49713.74,90,45069.37
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC2_10_1,1,21,31054.82,20,30276.27
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC2_10_1,2,21,31005.28,20,30276.27
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC2_10_5,1,18,28251.22,18,27067.04
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC2_10_5,2,18,28385.65,18,27067.04
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC2_10_9,1,18,24288.82,18,22919.42
+nols-rm50,--search alns --set alns.local_search=0 --set alns.max_remove=50,30,RC2_10_9,2,18,23916.91,18,22919.42
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,C1_10_2,1,94,41838.93,90,42222.96
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,C1_10_2,2,93,42141.27,90,42222.96
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,C1_10_6,1,100,42485.67,99,43830.21
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,C1_10_6,2,100,42486.28,99,43830.21
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,C2_10_3,1,29,16811.0,28,16829.47
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,C2_10_3,2,29,16708.98,28,16829.47
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,C2_10_6,1,30,16471.3,29,16863.71
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,C2_10_6,2,30,16589.2,29,16863.71
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,R1_10_1,1,100,56859.06,100,53380.18
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,R1_10_1,2,100,56757.15,100,53380.18
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,R1_10_5,1,91,65678.98,91,50445.39
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,R1_10_5,2,91,65069.26,91,50445.39
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,R2_10_1,1,19,43823.61,19,42182.57
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,R2_10_1,2,19,43754.03,19,42182.57
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,R2_10_5,1,19,37737.67,19,36216.05
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,R2_10_5,2,19,37363.09,19,36216.05
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC1_10_1,1,90,49274.59,90,45830.62
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC1_10_1,2,90,50558.15,90,45830.62
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC1_10_5,1,90,48745.45,90,45069.37
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC1_10_5,2,90,48452.32,90,45069.37
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC2_10_1,1,21,31085.34,20,30276.27
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC2_10_1,2,21,31051.38,20,30276.27
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC2_10_5,1,18,28603.66,18,27067.04
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC2_10_5,2,18,28309.08,18,27067.04
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC2_10_9,1,18,23948.55,18,22919.42
+nols-end1e3,--search alns --set alns.local_search=0 --set alns.end_temperature_ratio=0.001,30,RC2_10_9,2,18,24346.55,18,22919.42
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,C1_10_2,1,93,41797.14,90,42222.96
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,C1_10_2,2,93,41843.11,90,42222.96
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,C1_10_6,1,100,42480.93,99,43830.21
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,C1_10_6,2,100,42480.97,99,43830.21
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,C2_10_3,1,29,16573.45,28,16829.47
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,C2_10_3,2,29,16508.08,28,16829.47
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,C2_10_6,1,30,16416.62,29,16863.71
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,C2_10_6,2,30,16400.99,29,16863.71
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,R1_10_1,1,100,55681.65,100,53380.18
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,R1_10_1,2,100,55682.75,100,53380.18
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,R1_10_5,1,91,63322.08,91,50445.39
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,R1_10_5,2,91,64577.05,91,50445.39
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,R2_10_1,1,19,44091.94,19,42182.57
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,R2_10_1,2,19,43464.43,19,42182.57
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,R2_10_5,1,19,37456.98,19,36216.05
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,R2_10_5,2,19,37564.16,19,36216.05
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC1_10_1,1,90,49320.66,90,45830.62
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC1_10_1,2,90,49606.11,90,45830.62
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC1_10_5,1,90,48692.28,90,45069.37
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC1_10_5,2,90,48624.2,90,45069.37
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC2_10_1,1,20,31689.51,20,30276.27
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC2_10_1,2,21,30963.29,20,30276.27
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC2_10_5,1,18,28446.64,18,27067.04
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC2_10_5,2,18,28307.13,18,27067.04
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC2_10_9,1,18,23950.33,18,22919.42
+fleetA,--search alns --set alns.local_search=0 --set alns.elimination_period=0,30,RC2_10_9,2,18,23985.53,18,22919.42
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,C1_10_2,1,92,42105.74,90,42222.96
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,C1_10_2,2,93,41821.57,90,42222.96
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,C1_10_6,1,100,42480.11,99,43830.21
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,C1_10_6,2,100,42480.79,99,43830.21
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,C2_10_3,1,29,16469.11,28,16829.47
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,C2_10_3,2,30,16345.71,28,16829.47
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,C2_10_6,1,30,16476.06,29,16863.71
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,C2_10_6,2,30,16420.93,29,16863.71
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,R1_10_1,1,100,55782.74,100,53380.18
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,R1_10_1,2,100,55934.96,100,53380.18
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,R1_10_5,1,92,54795.36,91,50445.39
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,R1_10_5,2,92,53869.65,91,50445.39
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,R2_10_1,1,19,43632.16,19,42182.57
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,R2_10_1,2,19,43369.45,19,42182.57
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,R2_10_5,1,19,37258.51,19,36216.05
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,R2_10_5,2,19,37509.54,19,36216.05
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC1_10_1,1,91,47772.9,90,45830.62
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC1_10_1,2,91,47797.69,90,45830.62
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC1_10_5,1,91,47123.88,90,45069.37
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC1_10_5,2,91,47183.24,90,45069.37
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC2_10_1,1,21,30489.69,20,30276.27
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC2_10_1,2,21,30671.08,20,30276.27
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC2_10_5,1,18,28002.46,18,27067.04
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC2_10_5,2,18,28302.13,18,27067.04
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC2_10_9,1,18,23957.99,18,22919.42
+fleetB,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0,30,RC2_10_9,2,18,24034.04,18,22919.42
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,C1_10_2,1,93,41625.42,90,42222.96
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,C1_10_2,2,94,41831.32,90,42222.96
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,C1_10_6,1,100,42482.82,99,43830.21
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,C1_10_6,2,100,42483.88,99,43830.21
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,C2_10_3,1,29,16928.21,28,16829.47
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,C2_10_3,2,29,16571.92,28,16829.47
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,C2_10_6,1,30,16602.11,29,16863.71
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,C2_10_6,2,30,16551.29,29,16863.71
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,R1_10_1,1,100,55491.11,100,53380.18
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,R1_10_1,2,100,55622.26,100,53380.18
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,R1_10_5,1,92,54641.21,91,50445.39
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,R1_10_5,2,92,55019.5,91,50445.39
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,R2_10_1,1,19,43538.96,19,42182.57
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,R2_10_1,2,19,43332.17,19,42182.57
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,R2_10_5,1,19,37484.15,19,36216.05
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,R2_10_5,2,19,37241.1,19,36216.05
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC1_10_1,1,91,47981.24,90,45830.62
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC1_10_1,2,91,48047.76,90,45830.62
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC1_10_5,1,91,47312.75,90,45069.37
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC1_10_5,2,90,49582.31,90,45069.37
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC2_10_1,1,20,31451.24,20,30276.27
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC2_10_1,2,20,31526.9,20,30276.27
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC2_10_5,1,18,28266.46,18,27067.04
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC2_10_5,2,18,28056.21,18,27067.04
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC2_10_9,1,18,24157.8,18,22919.42
+fleetC,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=0 --set elim.share=0.5,30,RC2_10_9,2,18,23917.36,18,22919.42
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,C1_10_2,1,93,41570.21,90,42222.96
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,C1_10_2,2,92,41980.28,90,42222.96
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,C1_10_6,1,100,42481.06,99,43830.21
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,C1_10_6,2,100,42480.79,99,43830.21
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,C2_10_3,1,29,16464.2,28,16829.47
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,C2_10_3,2,30,16208.5,28,16829.47
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,C2_10_6,1,30,16488.05,29,16863.71
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,C2_10_6,2,30,16393.43,29,16863.71
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,R1_10_1,1,100,55731.09,100,53380.18
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,R1_10_1,2,100,55478.13,100,53380.18
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,R1_10_5,1,92,53541.89,91,50445.39
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,R1_10_5,2,92,54685.7,91,50445.39
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,R2_10_1,1,19,43599.47,19,42182.57
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,R2_10_1,2,19,43497.09,19,42182.57
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,R2_10_5,1,19,37565.35,19,36216.05
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,R2_10_5,2,19,37503.68,19,36216.05
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC1_10_1,1,91,48019.54,90,45830.62
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC1_10_1,2,91,47738.22,90,45830.62
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC1_10_5,1,91,46909.61,90,45069.37
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC1_10_5,2,91,46814.63,90,45069.37
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC2_10_1,1,20,31763.15,20,30276.27
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC2_10_1,2,20,31314.38,20,30276.27
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC2_10_5,1,18,28469.7,18,27067.04
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC2_10_5,2,18,28468.77,18,27067.04
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC2_10_9,1,18,24019.2,18,22919.42
+fleetD,--search alns --set alns.local_search=0 --set alns.elimination_period=0 --set elim.max_ejections=200,30,RC2_10_9,2,18,23944.89,18,22919.42
+ils-fleet,--search ils,30,C1_10_2,1,94,42648.18,90,42222.96
+ils-fleet,--search ils,30,C1_10_2,2,94,42630.61,90,42222.96
+ils-fleet,--search ils,30,C1_10_6,1,100,42476.16,99,43830.21
+ils-fleet,--search ils,30,C1_10_6,2,100,42474.23,99,43830.21
+ils-fleet,--search ils,30,C2_10_3,1,29,16559.61,28,16829.47
+ils-fleet,--search ils,30,C2_10_3,2,29,16513.09,28,16829.47
+ils-fleet,--search ils,30,C2_10_6,1,30,16369.06,29,16863.71
+ils-fleet,--search ils,30,C2_10_6,2,30,16366.82,29,16863.71
+ils-fleet,--search ils,30,R1_10_1,1,100,55977.01,100,53380.18
+ils-fleet,--search ils,30,R1_10_1,2,100,55604.14,100,53380.18
+ils-fleet,--search ils,30,R1_10_5,1,91,82861.7,91,50445.39
+ils-fleet,--search ils,30,R1_10_5,2,91,86623.85,91,50445.39
+ils-fleet,--search ils,30,R2_10_1,1,19,45126.02,19,42182.57
+ils-fleet,--search ils,30,R2_10_1,2,19,44808.91,19,42182.57
+ils-fleet,--search ils,30,R2_10_5,1,19,38029.87,19,36216.05
+ils-fleet,--search ils,30,R2_10_5,2,19,37723.17,19,36216.05
+ils-fleet,--search ils,30,RC1_10_1,1,90,56493.83,90,45830.62
+ils-fleet,--search ils,30,RC1_10_1,2,90,58921.08,90,45830.62
+ils-fleet,--search ils,30,RC1_10_5,1,90,54432.98,90,45069.37
+ils-fleet,--search ils,30,RC1_10_5,2,90,53772.56,90,45069.37
+ils-fleet,--search ils,30,RC2_10_1,1,20,31998.82,20,30276.27
+ils-fleet,--search ils,30,RC2_10_1,2,21,30955.56,20,30276.27
+ils-fleet,--search ils,30,RC2_10_5,1,18,30271.88,18,27067.04
+ils-fleet,--search ils,30,RC2_10_5,2,18,28858.15,18,27067.04
+ils-fleet,--search ils,30,RC2_10_9,1,18,24364.07,18,22919.42
+ils-fleet,--search ils,30,RC2_10_9,2,18,24721.79,18,22919.42
+alns-fleet,--search alns,30,C1_10_2,1,94,41718.94,90,42222.96
+alns-fleet,--search alns,30,C1_10_2,2,94,41723.66,90,42222.96
+alns-fleet,--search alns,30,C1_10_6,1,100,42481.07,99,43830.21
+alns-fleet,--search alns,30,C1_10_6,2,100,42482.17,99,43830.21
+alns-fleet,--search alns,30,C2_10_3,1,29,16635.08,28,16829.47
+alns-fleet,--search alns,30,C2_10_3,2,29,16940.75,28,16829.47
+alns-fleet,--search alns,30,C2_10_6,1,30,16475.73,29,16863.71
+alns-fleet,--search alns,30,C2_10_6,2,30,16441.42,29,16863.71
+alns-fleet,--search alns,30,R1_10_1,1,100,55497.2,100,53380.18
+alns-fleet,--search alns,30,R1_10_1,2,100,55749.5,100,53380.18
+alns-fleet,--search alns,30,R1_10_5,1,91,64216.72,91,50445.39
+alns-fleet,--search alns,30,R1_10_5,2,91,64124.4,91,50445.39
+alns-fleet,--search alns,30,R2_10_1,1,19,43694.3,19,42182.57
+alns-fleet,--search alns,30,R2_10_1,2,19,43215.71,19,42182.57
+alns-fleet,--search alns,30,R2_10_5,1,19,37523.5,19,36216.05
+alns-fleet,--search alns,30,R2_10_5,2,19,37461.29,19,36216.05
+alns-fleet,--search alns,30,RC1_10_1,1,90,49437.14,90,45830.62
+alns-fleet,--search alns,30,RC1_10_1,2,90,49332.55,90,45830.62
+alns-fleet,--search alns,30,RC1_10_5,1,90,48085.74,90,45069.37
+alns-fleet,--search alns,30,RC1_10_5,2,90,48576.06,90,45069.37
+alns-fleet,--search alns,30,RC2_10_1,1,20,31539.72,20,30276.27
+alns-fleet,--search alns,30,RC2_10_1,2,21,30694.94,20,30276.27
+alns-fleet,--search alns,30,RC2_10_5,1,18,27931.48,18,27067.04
+alns-fleet,--search alns,30,RC2_10_5,2,18,28530.74,18,27067.04
+alns-fleet,--search alns,30,RC2_10_9,1,18,23956.67,18,22919.42
+alns-fleet,--search alns,30,RC2_10_9,2,18,23863.97,18,22919.42
+alns-polish,,30,C1_10_2,1,93,41776.29,90,42222.96
+alns-polish,,30,C1_10_2,2,93,41748.0,90,42222.96
+alns-polish,,30,C1_10_6,1,100,42481.15,99,43830.21
+alns-polish,,30,C1_10_6,2,100,42479.78,99,43830.21
+alns-polish,,30,C2_10_3,1,29,16938.95,28,16829.47
+alns-polish,,30,C2_10_3,2,29,16615.93,28,16829.47
+alns-polish,,30,C2_10_6,1,30,16471.56,29,16863.71
+alns-polish,,30,C2_10_6,2,30,16394.67,29,16863.71
+alns-polish,,30,R1_10_1,1,100,55230.46,100,53380.18
+alns-polish,,30,R1_10_1,2,100,55236.87,100,53380.18
+alns-polish,,30,R1_10_5,1,91,63125.07,91,50445.39
+alns-polish,,30,R1_10_5,2,91,63536.65,91,50445.39
+alns-polish,,30,R2_10_1,1,19,43594.92,19,42182.57
+alns-polish,,30,R2_10_1,2,19,43329.86,19,42182.57
+alns-polish,,30,R2_10_5,1,19,37527.31,19,36216.05
+alns-polish,,30,R2_10_5,2,19,37358.41,19,36216.05
+alns-polish,,30,RC1_10_1,1,90,49332.25,90,45830.62
+alns-polish,,30,RC1_10_1,2,90,49441.4,90,45830.62
+alns-polish,,30,RC1_10_5,1,90,48719.33,90,45069.37
+alns-polish,,30,RC1_10_5,2,90,48197.98,90,45069.37
+alns-polish,,30,RC2_10_1,1,20,31618.37,20,30276.27
+alns-polish,,30,RC2_10_1,2,21,30673.81,20,30276.27
+alns-polish,,30,RC2_10_5,1,18,28445.67,18,27067.04
+alns-polish,,30,RC2_10_5,2,18,28179.86,18,27067.04
+alns-polish,,30,RC2_10_9,1,18,23987.49,18,22919.42
+alns-polish,,30,RC2_10_9,2,18,23992.64,18,22919.42
+alns-lsp2000,--set alns.ls_period=2000,30,C1_10_2,1,94,41634.52,90,42222.96
+alns-lsp2000,--set alns.ls_period=2000,30,C1_10_2,2,93,41962.29,90,42222.96
+alns-lsp2000,--set alns.ls_period=2000,30,C1_10_6,1,100,42478.63,99,43830.21
+alns-lsp2000,--set alns.ls_period=2000,30,C1_10_6,2,100,42477.65,99,43830.21
+alns-lsp2000,--set alns.ls_period=2000,30,C2_10_3,1,29,16454.04,28,16829.47
+alns-lsp2000,--set alns.ls_period=2000,30,C2_10_3,2,29,16599.46,28,16829.47
+alns-lsp2000,--set alns.ls_period=2000,30,C2_10_6,1,30,16391.98,29,16863.71
+alns-lsp2000,--set alns.ls_period=2000,30,C2_10_6,2,30,16450.61,29,16863.71
+alns-lsp2000,--set alns.ls_period=2000,30,R1_10_1,1,100,55252.37,100,53380.18
+alns-lsp2000,--set alns.ls_period=2000,30,R1_10_1,2,100,55266.89,100,53380.18
+alns-lsp2000,--set alns.ls_period=2000,30,R1_10_5,1,91,63588.23,91,50445.39
+alns-lsp2000,--set alns.ls_period=2000,30,R1_10_5,2,91,64325.1,91,50445.39
+alns-lsp2000,--set alns.ls_period=2000,30,R2_10_1,1,19,43399.34,19,42182.57
+alns-lsp2000,--set alns.ls_period=2000,30,R2_10_1,2,19,43487.06,19,42182.57
+alns-lsp2000,--set alns.ls_period=2000,30,R2_10_5,1,19,37633.19,19,36216.05
+alns-lsp2000,--set alns.ls_period=2000,30,R2_10_5,2,19,37506.09,19,36216.05
+alns-lsp2000,--set alns.ls_period=2000,30,RC1_10_1,1,90,49234.15,90,45830.62
+alns-lsp2000,--set alns.ls_period=2000,30,RC1_10_1,2,90,48777.91,90,45830.62
+alns-lsp2000,--set alns.ls_period=2000,30,RC1_10_5,1,90,48363.44,90,45069.37
+alns-lsp2000,--set alns.ls_period=2000,30,RC1_10_5,2,90,47495.05,90,45069.37
+alns-lsp2000,--set alns.ls_period=2000,30,RC2_10_1,1,20,31005.81,20,30276.27
+alns-lsp2000,--set alns.ls_period=2000,30,RC2_10_1,2,21,30587.94,20,30276.27
+alns-lsp2000,--set alns.ls_period=2000,30,RC2_10_5,1,18,28427.32,18,27067.04
+alns-lsp2000,--set alns.ls_period=2000,30,RC2_10_5,2,18,28157.05,18,27067.04
+alns-lsp2000,--set alns.ls_period=2000,30,RC2_10_9,1,18,24048.72,18,22919.42
+alns-lsp2000,--set alns.ls_period=2000,30,RC2_10_9,2,18,24041.46,18,22919.42
+alns-lsp20000,--set alns.ls_period=20000,30,C1_10_2,1,93,41795.28,90,42222.96
+alns-lsp20000,--set alns.ls_period=20000,30,C1_10_2,2,94,41645.96,90,42222.96
+alns-lsp20000,--set alns.ls_period=20000,30,C1_10_6,1,100,42478.64,99,43830.21
+alns-lsp20000,--set alns.ls_period=20000,30,C1_10_6,2,100,42481.45,99,43830.21
+alns-lsp20000,--set alns.ls_period=20000,30,C2_10_3,1,30,16159.35,28,16829.47
+alns-lsp20000,--set alns.ls_period=20000,30,C2_10_3,2,29,16792.55,28,16829.47
+alns-lsp20000,--set alns.ls_period=20000,30,C2_10_6,1,30,16389.51,29,16863.71
+alns-lsp20000,--set alns.ls_period=20000,30,C2_10_6,2,30,16421.89,29,16863.71
+alns-lsp20000,--set alns.ls_period=20000,30,R1_10_1,1,100,55066.34,100,53380.18
+alns-lsp20000,--set alns.ls_period=20000,30,R1_10_1,2,100,55185.11,100,53380.18
+alns-lsp20000,--set alns.ls_period=20000,30,R1_10_5,1,91,62995.55,91,50445.39
+alns-lsp20000,--set alns.ls_period=20000,30,R1_10_5,2,91,63717.99,91,50445.39
+alns-lsp20000,--set alns.ls_period=20000,30,R2_10_1,1,19,43186.16,19,42182.57
+alns-lsp20000,--set alns.ls_period=20000,30,R2_10_1,2,19,43190.1,19,42182.57
+alns-lsp20000,--set alns.ls_period=20000,30,R2_10_5,1,19,37427.61,19,36216.05
+alns-lsp20000,--set alns.ls_period=20000,30,R2_10_5,2,19,37468.86,19,36216.05
+alns-lsp20000,--set alns.ls_period=20000,30,RC1_10_1,1,90,50370.4,90,45830.62
+alns-lsp20000,--set alns.ls_period=20000,30,RC1_10_1,2,90,49189.84,90,45830.62
+alns-lsp20000,--set alns.ls_period=20000,30,RC1_10_5,1,90,48271.38,90,45069.37
+alns-lsp20000,--set alns.ls_period=20000,30,RC1_10_5,2,90,48839.67,90,45069.37
+alns-lsp20000,--set alns.ls_period=20000,30,RC2_10_1,1,20,31754.66,20,30276.27
+alns-lsp20000,--set alns.ls_period=20000,30,RC2_10_1,2,21,30653.23,20,30276.27
+alns-lsp20000,--set alns.ls_period=20000,30,RC2_10_5,1,18,28416.86,18,27067.04
+alns-lsp20000,--set alns.ls_period=20000,30,RC2_10_5,2,18,28093.77,18,27067.04
+alns-lsp20000,--set alns.ls_period=20000,30,RC2_10_9,1,18,24046.87,18,22919.42
+alns-lsp20000,--set alns.ls_period=20000,30,RC2_10_9,2,18,24205.11,18,22919.42
+v3-base,,30,C1_10_2,1,93,41744.99,90,42222.96
+v3-base,,30,C1_10_2,2,94,41803.14,90,42222.96
+v3-base,,30,C1_10_2,3,93,41672.41,90,42222.96
+v3-base,,30,C1_10_6,1,100,42477.66,99,43830.21
+v3-base,,30,C1_10_6,2,100,42477.66,99,43830.21
+v3-base,,30,C1_10_6,3,100,42478.64,99,43830.21
+v3-base,,30,C2_10_3,1,29,16446.56,28,16829.47
+v3-base,,30,C2_10_3,2,29,16728.34,28,16829.47
+v3-base,,30,C2_10_3,3,30,16177.7,28,16829.47
+v3-base,,30,C2_10_6,1,30,16406.33,29,16863.71
+v3-base,,30,C2_10_6,2,30,16389.81,29,16863.71
+v3-base,,30,C2_10_6,3,30,16412.1,29,16863.71
+v3-base,,30,R1_10_1,1,100,55098.48,100,53380.18
+v3-base,,30,R1_10_1,2,100,55049.87,100,53380.18
+v3-base,,30,R1_10_1,3,100,55048.58,100,53380.18
+v3-base,,30,R1_10_5,1,91,61404.53,91,50445.39
+v3-base,,30,R1_10_5,2,91,63491.26,91,50445.39
+v3-base,,30,R1_10_5,3,91,63471.87,91,50445.39
+v3-base,,30,R2_10_1,1,19,43356.05,19,42182.57
+v3-base,,30,R2_10_1,2,19,43419.57,19,42182.57
+v3-base,,30,R2_10_1,3,19,43797.51,19,42182.57
+v3-base,,30,R2_10_5,1,19,37488.29,19,36216.05
+v3-base,,30,R2_10_5,2,19,37400.8,19,36216.05
+v3-base,,30,R2_10_5,3,19,37428.76,19,36216.05
+v3-base,,30,RC1_10_1,1,90,49550.24,90,45830.62
+v3-base,,30,RC1_10_1,2,90,49248.58,90,45830.62
+v3-base,,30,RC1_10_1,3,90,49348.04,90,45830.62
+v3-base,,30,RC1_10_5,1,90,48520.73,90,45069.37
+v3-base,,30,RC1_10_5,2,90,48271.73,90,45069.37
+v3-base,,30,RC1_10_5,3,90,48652.81,90,45069.37
+v3-base,,30,RC2_10_1,1,20,31521.75,20,30276.27
+v3-base,,30,RC2_10_1,2,21,30468.0,20,30276.27
+v3-base,,30,RC2_10_1,3,20,31265.2,20,30276.27
+v3-base,,30,RC2_10_5,1,18,28122.25,18,27067.04
+v3-base,,30,RC2_10_5,2,18,28179.36,18,27067.04
+v3-base,,30,RC2_10_5,3,18,27940.35,18,27067.04
+v3-base,,30,RC2_10_9,1,18,23850.89,18,22919.42
+v3-base,,30,RC2_10_9,2,18,23655.81,18,22919.42
+v3-base,,30,RC2_10_9,3,18,24118.07,18,22919.42
+v3-share05,--set elim.share=0.5,30,C1_10_2,1,93,41900.83,90,42222.96
+v3-share05,--set elim.share=0.5,30,C1_10_2,2,93,41613.65,90,42222.96
+v3-share05,--set elim.share=0.5,30,C1_10_2,3,93,41732.22,90,42222.96
+v3-share05,--set elim.share=0.5,30,C1_10_6,1,100,42477.66,99,43830.21
+v3-share05,--set elim.share=0.5,30,C1_10_6,2,100,42479.76,99,43830.21
+v3-share05,--set elim.share=0.5,30,C1_10_6,3,100,42477.66,99,43830.21
+v3-share05,--set elim.share=0.5,30,C2_10_3,1,29,16789.99,28,16829.47
+v3-share05,--set elim.share=0.5,30,C2_10_3,2,29,16492.79,28,16829.47
+v3-share05,--set elim.share=0.5,30,C2_10_3,3,29,16430.63,28,16829.47
+v3-share05,--set elim.share=0.5,30,C2_10_6,1,30,16425.51,29,16863.71
+v3-share05,--set elim.share=0.5,30,C2_10_6,2,30,16426.89,29,16863.71
+v3-share05,--set elim.share=0.5,30,C2_10_6,3,30,16708.47,29,16863.71
+v3-share05,--set elim.share=0.5,30,R1_10_1,1,100,54838.48,100,53380.18
+v3-share05,--set elim.share=0.5,30,R1_10_1,2,100,55652.94,100,53380.18
+v3-share05,--set elim.share=0.5,30,R1_10_1,3,100,54915.3,100,53380.18
+v3-share05,--set elim.share=0.5,30,R1_10_5,1,91,61697.8,91,50445.39
+v3-share05,--set elim.share=0.5,30,R1_10_5,2,91,61829.06,91,50445.39
+v3-share05,--set elim.share=0.5,30,R1_10_5,3,91,62593.32,91,50445.39
+v3-share05,--set elim.share=0.5,30,R2_10_1,1,19,43509.19,19,42182.57
+v3-share05,--set elim.share=0.5,30,R2_10_1,2,19,43042.48,19,42182.57
+v3-share05,--set elim.share=0.5,30,R2_10_1,3,19,43404.6,19,42182.57
+v3-share05,--set elim.share=0.5,30,R2_10_5,1,19,37528.32,19,36216.05
+v3-share05,--set elim.share=0.5,30,R2_10_5,2,19,37449.78,19,36216.05
+v3-share05,--set elim.share=0.5,30,R2_10_5,3,19,37340.79,19,36216.05
+v3-share05,--set elim.share=0.5,30,RC1_10_1,1,90,49112.46,90,45830.62
+v3-share05,--set elim.share=0.5,30,RC1_10_1,2,90,49985.71,90,45830.62
+v3-share05,--set elim.share=0.5,30,RC1_10_1,3,90,49087.53,90,45830.62
+v3-share05,--set elim.share=0.5,30,RC1_10_5,1,90,48998.15,90,45069.37
+v3-share05,--set elim.share=0.5,30,RC1_10_5,2,90,48791.45,90,45069.37
+v3-share05,--set elim.share=0.5,30,RC1_10_5,3,90,48109.53,90,45069.37
+v3-share05,--set elim.share=0.5,30,RC2_10_1,1,20,31821.07,20,30276.27
+v3-share05,--set elim.share=0.5,30,RC2_10_1,2,21,30766.83,20,30276.27
+v3-share05,--set elim.share=0.5,30,RC2_10_1,3,20,31457.38,20,30276.27
+v3-share05,--set elim.share=0.5,30,RC2_10_5,1,18,28153.17,18,27067.04
+v3-share05,--set elim.share=0.5,30,RC2_10_5,2,18,27856.92,18,27067.04
+v3-share05,--set elim.share=0.5,30,RC2_10_5,3,18,28106.26,18,27067.04
+v3-share05,--set elim.share=0.5,30,RC2_10_9,1,18,23813.89,18,22919.42
+v3-share05,--set elim.share=0.5,30,RC2_10_9,2,18,24072.75,18,22919.42
+v3-share05,--set elim.share=0.5,30,RC2_10_9,3,18,23753.93,18,22919.42
+v3-sisr,,30,C1_10_2,1,93,41662.71,90,42222.96
+v3-sisr,,30,C1_10_2,2,93,41679.8,90,42222.96
+v3-sisr,,30,C1_10_2,3,93,41947.95,90,42222.96
+v3-sisr,,30,C1_10_6,1,100,42478.63,99,43830.21
+v3-sisr,,30,C1_10_6,2,100,42479.72,99,43830.21
+v3-sisr,,30,C1_10_6,3,100,42478.63,99,43830.21
+v3-sisr,,30,C2_10_3,1,29,16900.29,28,16829.47
+v3-sisr,,30,C2_10_3,2,29,16488.65,28,16829.47
+v3-sisr,,30,C2_10_3,3,29,16519.13,28,16829.47
+v3-sisr,,30,C2_10_6,1,30,16389.52,29,16863.71
+v3-sisr,,30,C2_10_6,2,30,16391.96,29,16863.71
+v3-sisr,,30,C2_10_6,3,30,16427.78,29,16863.71
+v3-sisr,,30,R1_10_1,1,100,55058.27,100,53380.18
+v3-sisr,,30,R1_10_1,2,100,55007.65,100,53380.18
+v3-sisr,,30,R1_10_1,3,100,55157.42,100,53380.18
+v3-sisr,,30,R1_10_5,1,91,63184.32,91,50445.39
+v3-sisr,,30,R1_10_5,2,91,62932.49,91,50445.39
+v3-sisr,,30,R1_10_5,3,91,62039.53,91,50445.39
+v3-sisr,,30,R2_10_1,1,19,43467.8,19,42182.57
+v3-sisr,,30,R2_10_1,2,19,43623.98,19,42182.57
+v3-sisr,,30,R2_10_1,3,19,43297.48,19,42182.57
+v3-sisr,,30,R2_10_5,1,19,37477.41,19,36216.05
+v3-sisr,,30,R2_10_5,2,19,37358.18,19,36216.05
+v3-sisr,,30,R2_10_5,3,19,37284.46,19,36216.05
+v3-sisr,,30,RC1_10_1,1,90,49533.84,90,45830.62
+v3-sisr,,30,RC1_10_1,2,90,50021.1,90,45830.62
+v3-sisr,,30,RC1_10_1,3,90,49940.62,90,45830.62
+v3-sisr,,30,RC1_10_5,1,90,48356.37,90,45069.37
+v3-sisr,,30,RC1_10_5,2,90,48503.46,90,45069.37
+v3-sisr,,30,RC1_10_5,3,90,48644.88,90,45069.37
+v3-sisr,,30,RC2_10_1,1,21,30926.77,20,30276.27
+v3-sisr,,30,RC2_10_1,2,20,31601.26,20,30276.27
+v3-sisr,,30,RC2_10_1,3,20,31434.21,20,30276.27
+v3-sisr,,30,RC2_10_5,1,18,28248.83,18,27067.04
+v3-sisr,,30,RC2_10_5,2,18,28228.04,18,27067.04
+v3-sisr,,30,RC2_10_5,3,18,28052.94,18,27067.04
+v3-sisr,,30,RC2_10_9,1,18,23750.3,18,22919.42
+v3-sisr,,30,RC2_10_9,2,18,23563.38,18,22919.42
+v3-sisr,,30,RC2_10_9,3,18,24002.78,18,22919.42
+v3-noblink,--set alns.blink_rate=0,30,C1_10_2,1,93,41781.96,90,42222.96
+v3-noblink,--set alns.blink_rate=0,30,C1_10_2,2,94,41653.59,90,42222.96
+v3-noblink,--set alns.blink_rate=0,30,C1_10_2,3,94,41654.76,90,42222.96
+v3-noblink,--set alns.blink_rate=0,30,C1_10_6,1,100,42478.63,99,43830.21
+v3-noblink,--set alns.blink_rate=0,30,C1_10_6,2,100,42480.17,99,43830.21
+v3-noblink,--set alns.blink_rate=0,30,C1_10_6,3,100,42480.2,99,43830.21
+v3-noblink,--set alns.blink_rate=0,30,C2_10_3,1,29,16679.75,28,16829.47
+v3-noblink,--set alns.blink_rate=0,30,C2_10_3,2,29,16912.34,28,16829.47
+v3-noblink,--set alns.blink_rate=0,30,C2_10_3,3,30,16158.98,28,16829.47
+v3-noblink,--set alns.blink_rate=0,30,C2_10_6,1,30,16412.83,29,16863.71
+v3-noblink,--set alns.blink_rate=0,30,C2_10_6,2,30,16398.43,29,16863.71
+v3-noblink,--set alns.blink_rate=0,30,C2_10_6,3,30,16493.58,29,16863.71
+v3-noblink,--set alns.blink_rate=0,30,R1_10_1,1,100,54974.79,100,53380.18
+v3-noblink,--set alns.blink_rate=0,30,R1_10_1,2,100,55053.17,100,53380.18
+v3-noblink,--set alns.blink_rate=0,30,R1_10_1,3,100,55086.99,100,53380.18
+v3-noblink,--set alns.blink_rate=0,30,R1_10_5,1,91,62169.73,91,50445.39
+v3-noblink,--set alns.blink_rate=0,30,R1_10_5,2,91,63884.75,91,50445.39
+v3-noblink,--set alns.blink_rate=0,30,R1_10_5,3,91,62920.17,91,50445.39
+v3-noblink,--set alns.blink_rate=0,30,R2_10_1,1,19,43911.29,19,42182.57
+v3-noblink,--set alns.blink_rate=0,30,R2_10_1,2,19,43481.23,19,42182.57
+v3-noblink,--set alns.blink_rate=0,30,R2_10_1,3,19,43254.56,19,42182.57
+v3-noblink,--set alns.blink_rate=0,30,R2_10_5,1,19,37443.77,19,36216.05
+v3-noblink,--set alns.blink_rate=0,30,R2_10_5,2,19,37662.11,19,36216.05
+v3-noblink,--set alns.blink_rate=0,30,R2_10_5,3,19,37508.12,19,36216.05
+v3-noblink,--set alns.blink_rate=0,30,RC1_10_1,1,90,49204.63,90,45830.62
+v3-noblink,--set alns.blink_rate=0,30,RC1_10_1,2,90,49449.39,90,45830.62
+v3-noblink,--set alns.blink_rate=0,30,RC1_10_1,3,90,49221.2,90,45830.62
+v3-noblink,--set alns.blink_rate=0,30,RC1_10_5,1,90,47928.58,90,45069.37
+v3-noblink,--set alns.blink_rate=0,30,RC1_10_5,2,90,48124.59,90,45069.37
+v3-noblink,--set alns.blink_rate=0,30,RC1_10_5,3,90,48763.63,90,45069.37
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_1,1,21,30790.62,20,30276.27
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_1,2,20,31245.75,20,30276.27
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_1,3,20,31217.93,20,30276.27
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_5,1,18,28326.4,18,27067.04
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_5,2,18,28276.83,18,27067.04
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_5,3,18,28033.99,18,27067.04
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_9,1,18,24028.8,18,22919.42
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_9,2,18,23949.34,18,22919.42
+v3-noblink,--set alns.blink_rate=0,30,RC2_10_9,3,18,23889.08,18,22919.42
+v3-nb,--set nb.enabled=1,30,C1_10_2,1,93,41669.44,90,42222.96
+v3-nb,--set nb.enabled=1,30,C1_10_2,2,93,41629.69,90,42222.96
+v3-nb,--set nb.enabled=1,30,C1_10_2,3,94,41788.19,90,42222.96
+v3-nb,--set nb.enabled=1,30,C1_10_6,1,100,42480.17,99,43830.21
+v3-nb,--set nb.enabled=1,30,C1_10_6,2,100,42477.66,99,43830.21
+v3-nb,--set nb.enabled=1,30,C1_10_6,3,100,42477.66,99,43830.21
+v3-nb,--set nb.enabled=1,30,C2_10_3,1,29,16776.54,28,16829.47
+v3-nb,--set nb.enabled=1,30,C2_10_3,2,29,16558.71,28,16829.47
+v3-nb,--set nb.enabled=1,30,C2_10_3,3,29,16666.33,28,16829.47
+v3-nb,--set nb.enabled=1,30,C2_10_6,1,30,16381.27,29,16863.71
+v3-nb,--set nb.enabled=1,30,C2_10_6,2,30,16436.49,29,16863.71
+v3-nb,--set nb.enabled=1,30,C2_10_6,3,30,16434.33,29,16863.71
+v3-nb,--set nb.enabled=1,30,R1_10_1,1,100,55432.87,100,53380.18
+v3-nb,--set nb.enabled=1,30,R1_10_1,2,100,55071.68,100,53380.18
+v3-nb,--set nb.enabled=1,30,R1_10_1,3,100,55188.52,100,53380.18
+v3-nb,--set nb.enabled=1,30,R1_10_5,1,91,60714.65,91,50445.39
+v3-nb,--set nb.enabled=1,30,R1_10_5,2,91,61515.82,91,50445.39
+v3-nb,--set nb.enabled=1,30,R1_10_5,3,91,61312.38,91,50445.39
+v3-nb,--set nb.enabled=1,30,R2_10_1,1,19,43597.53,19,42182.57
+v3-nb,--set nb.enabled=1,30,R2_10_1,2,19,43495.88,19,42182.57
+v3-nb,--set nb.enabled=1,30,R2_10_1,3,19,43746.65,19,42182.57
+v3-nb,--set nb.enabled=1,30,R2_10_5,1,19,37789.7,19,36216.05
+v3-nb,--set nb.enabled=1,30,R2_10_5,2,19,37374.51,19,36216.05
+v3-nb,--set nb.enabled=1,30,R2_10_5,3,19,37568.44,19,36216.05
+v3-nb,--set nb.enabled=1,30,RC1_10_1,1,90,48861.08,90,45830.62
+v3-nb,--set nb.enabled=1,30,RC1_10_1,2,90,49213.27,90,45830.62
+v3-nb,--set nb.enabled=1,30,RC1_10_1,3,90,49716.14,90,45830.62
+v3-nb,--set nb.enabled=1,30,RC1_10_5,1,90,48689.25,90,45069.37
+v3-nb,--set nb.enabled=1,30,RC1_10_5,2,90,47954.48,90,45069.37
+v3-nb,--set nb.enabled=1,30,RC1_10_5,3,90,48942.62,90,45069.37
+v3-nb,--set nb.enabled=1,30,RC2_10_1,1,22,29881.0,20,30276.27
+v3-nb,--set nb.enabled=1,30,RC2_10_1,2,22,29816.21,20,30276.27
+v3-nb,--set nb.enabled=1,30,RC2_10_1,3,21,30532.99,20,30276.27
+v3-nb,--set nb.enabled=1,30,RC2_10_5,1,18,28745.64,18,27067.04
+v3-nb,--set nb.enabled=1,30,RC2_10_5,2,18,28114.24,18,27067.04
+v3-nb,--set nb.enabled=1,30,RC2_10_5,3,18,28221.77,18,27067.04
+v3-nb,--set nb.enabled=1,30,RC2_10_9,1,18,23913.48,18,22919.42
+v3-nb,--set nb.enabled=1,30,RC2_10_9,2,18,23923.58,18,22919.42
+v3-nb,--set nb.enabled=1,30,RC2_10_9,3,18,24002.77,18,22919.42
+v3-nb-last,--set nb.enabled=1,30,C1_10_2,1,93,41780.39,90,42222.96
+v3-nb-last,--set nb.enabled=1,30,C1_10_2,2,93,41817.78,90,42222.96
+v3-nb-last,--set nb.enabled=1,30,C1_10_2,3,93,41720.35,90,42222.96
+v3-nb-last,--set nb.enabled=1,30,C1_10_6,1,100,42477.66,99,43830.21
+v3-nb-last,--set nb.enabled=1,30,C1_10_6,2,100,42479.78,99,43830.21
+v3-nb-last,--set nb.enabled=1,30,C1_10_6,3,100,42477.66,99,43830.21
+v3-nb-last,--set nb.enabled=1,30,C2_10_3,1,30,16181.68,28,16829.47
+v3-nb-last,--set nb.enabled=1,30,C2_10_3,2,29,16797.49,28,16829.47
+v3-nb-last,--set nb.enabled=1,30,C2_10_3,3,29,16465.23,28,16829.47
+v3-nb-last,--set nb.enabled=1,30,C2_10_6,1,30,16380.27,29,16863.71
+v3-nb-last,--set nb.enabled=1,30,C2_10_6,2,30,16383.56,29,16863.71
+v3-nb-last,--set nb.enabled=1,30,C2_10_6,3,30,16402.49,29,16863.71
+v3-nb-last,--set nb.enabled=1,30,R1_10_1,1,100,54984.49,100,53380.18
+v3-nb-last,--set nb.enabled=1,30,R1_10_1,2,100,55100.7,100,53380.18
+v3-nb-last,--set nb.enabled=1,30,R1_10_1,3,100,55004.44,100,53380.18
+v3-nb-last,--set nb.enabled=1,30,R1_10_5,1,91,61962.41,91,50445.39
+v3-nb-last,--set nb.enabled=1,30,R1_10_5,2,91,64197.8,91,50445.39
+v3-nb-last,--set nb.enabled=1,30,R1_10_5,3,91,63455.18,91,50445.39
+v3-nb-last,--set nb.enabled=1,30,R2_10_1,1,19,43633.25,19,42182.57
+v3-nb-last,--set nb.enabled=1,30,R2_10_1,2,19,43490.36,19,42182.57
+v3-nb-last,--set nb.enabled=1,30,R2_10_1,3,19,43595.98,19,42182.57
+v3-nb-last,--set nb.enabled=1,30,R2_10_5,1,19,37561.2,19,36216.05
+v3-nb-last,--set nb.enabled=1,30,R2_10_5,2,19,37432.86,19,36216.05
+v3-nb-last,--set nb.enabled=1,30,R2_10_5,3,19,37409.02,19,36216.05
+v3-nb-last,--set nb.enabled=1,30,RC1_10_1,1,90,49672.71,90,45830.62
+v3-nb-last,--set nb.enabled=1,30,RC1_10_1,2,90,49444.91,90,45830.62
+v3-nb-last,--set nb.enabled=1,30,RC1_10_1,3,90,49549.42,90,45830.62
+v3-nb-last,--set nb.enabled=1,30,RC1_10_5,1,90,48361.01,90,45069.37
+v3-nb-last,--set nb.enabled=1,30,RC1_10_5,2,90,48855.2,90,45069.37
+v3-nb-last,--set nb.enabled=1,30,RC1_10_5,3,90,49069.95,90,45069.37
+v3-nb-last,--set nb.enabled=1,30,RC2_10_1,1,21,30694.83,20,30276.27
+v3-nb-last,--set nb.enabled=1,30,RC2_10_1,2,21,30739.63,20,30276.27
+v3-nb-last,--set nb.enabled=1,30,RC2_10_1,3,21,30621.05,20,30276.27
+v3-nb-last,--set nb.enabled=1,30,RC2_10_5,1,18,28296.68,18,27067.04
+v3-nb-last,--set nb.enabled=1,30,RC2_10_5,2,18,28501.84,18,27067.04
+v3-nb-last,--set nb.enabled=1,30,RC2_10_5,3,18,28048.86,18,27067.04
+v3-nb-last,--set nb.enabled=1,30,RC2_10_9,1,18,24243.32,18,22919.42
+v3-nb-last,--set nb.enabled=1,30,RC2_10_9,2,18,24088.64,18,22919.42
+v3-nb-last,--set nb.enabled=1,30,RC2_10_9,3,18,23847.62,18,22919.42
+v3-pool0,--set alns.max_pool_ejections=0,30,C1_10_2,1,95,42045.27,90,42222.96
+v3-pool0,--set alns.max_pool_ejections=0,30,C1_10_2,2,96,41927.98,90,42222.96
+v3-pool0,--set alns.max_pool_ejections=0,30,C1_10_2,3,96,41851.52,90,42222.96
+v3-pool0,--set alns.max_pool_ejections=0,30,C1_10_6,1,100,42477.65,99,43830.21
+v3-pool0,--set alns.max_pool_ejections=0,30,C1_10_6,2,100,42478.77,99,43830.21
+v3-pool0,--set alns.max_pool_ejections=0,30,C1_10_6,3,100,42477.66,99,43830.21
+v3-pool0,--set alns.max_pool_ejections=0,30,C2_10_3,1,30,16198.1,28,16829.47
+v3-pool0,--set alns.max_pool_ejections=0,30,C2_10_3,2,30,16166.57,28,16829.47
+v3-pool0,--set alns.max_pool_ejections=0,30,C2_10_3,3,30,16165.09,28,16829.47
+v3-pool0,--set alns.max_pool_ejections=0,30,C2_10_6,1,30,16390.09,29,16863.71
+v3-pool0,--set alns.max_pool_ejections=0,30,C2_10_6,2,30,16414.24,29,16863.71
+v3-pool0,--set alns.max_pool_ejections=0,30,C2_10_6,3,30,16400.97,29,16863.71
+v3-pool0,--set alns.max_pool_ejections=0,30,R1_10_1,1,100,54748.12,100,53380.18
+v3-pool0,--set alns.max_pool_ejections=0,30,R1_10_1,2,100,54732.1,100,53380.18
+v3-pool0,--set alns.max_pool_ejections=0,30,R1_10_1,3,100,54909.6,100,53380.18
+v3-pool0,--set alns.max_pool_ejections=0,30,R1_10_5,1,91,58045.92,91,50445.39
+v3-pool0,--set alns.max_pool_ejections=0,30,R1_10_5,2,91,58831.49,91,50445.39
+v3-pool0,--set alns.max_pool_ejections=0,30,R1_10_5,3,91,57253.34,91,50445.39
+v3-pool0,--set alns.max_pool_ejections=0,30,R2_10_1,1,19,43552.83,19,42182.57
+v3-pool0,--set alns.max_pool_ejections=0,30,R2_10_1,2,19,43934.86,19,42182.57
+v3-pool0,--set alns.max_pool_ejections=0,30,R2_10_1,3,19,43852.21,19,42182.57
+v3-pool0,--set alns.max_pool_ejections=0,30,R2_10_5,1,19,37317.43,19,36216.05
+v3-pool0,--set alns.max_pool_ejections=0,30,R2_10_5,2,19,37383.51,19,36216.05
+v3-pool0,--set alns.max_pool_ejections=0,30,R2_10_5,3,19,37448.1,19,36216.05
+v3-pool0,--set alns.max_pool_ejections=0,30,RC1_10_1,1,90,48792.35,90,45830.62
+v3-pool0,--set alns.max_pool_ejections=0,30,RC1_10_1,2,90,48124.26,90,45830.62
+v3-pool0,--set alns.max_pool_ejections=0,30,RC1_10_1,3,90,48644.0,90,45830.62
+v3-pool0,--set alns.max_pool_ejections=0,30,RC1_10_5,1,90,47575.24,90,45069.37
+v3-pool0,--set alns.max_pool_ejections=0,30,RC1_10_5,2,90,47407.18,90,45069.37
+v3-pool0,--set alns.max_pool_ejections=0,30,RC1_10_5,3,90,47414.97,90,45069.37
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_1,1,21,31343.02,20,30276.27
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_1,2,20,31147.77,20,30276.27
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_1,3,20,31420.77,20,30276.27
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_5,1,18,28831.49,18,27067.04
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_5,2,18,28293.0,18,27067.04
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_5,3,18,28299.25,18,27067.04
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_9,1,18,23662.37,18,22919.42
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_9,2,18,23963.65,18,22919.42
+v3-pool0,--set alns.max_pool_ejections=0,30,RC2_10_9,3,18,24175.84,18,22919.42
+v3-pool10,--set alns.max_pool_ejections=10,30,C1_10_2,1,94,41679.69,90,42222.96
+v3-pool10,--set alns.max_pool_ejections=10,30,C1_10_2,2,94,41682.95,90,42222.96
+v3-pool10,--set alns.max_pool_ejections=10,30,C1_10_2,3,95,41862.2,90,42222.96
+v3-pool10,--set alns.max_pool_ejections=10,30,C1_10_6,1,100,42477.65,99,43830.21
+v3-pool10,--set alns.max_pool_ejections=10,30,C1_10_6,2,100,42477.65,99,43830.21
+v3-pool10,--set alns.max_pool_ejections=10,30,C1_10_6,3,100,42478.63,99,43830.21
+v3-pool10,--set alns.max_pool_ejections=10,30,C2_10_3,1,30,16165.49,28,16829.47
+v3-pool10,--set alns.max_pool_ejections=10,30,C2_10_3,2,30,16187.5,28,16829.47
+v3-pool10,--set alns.max_pool_ejections=10,30,C2_10_3,3,30,16125.98,28,16829.47
+v3-pool10,--set alns.max_pool_ejections=10,30,C2_10_6,1,30,16407.62,29,16863.71
+v3-pool10,--set alns.max_pool_ejections=10,30,C2_10_6,2,30,16416.59,29,16863.71
+v3-pool10,--set alns.max_pool_ejections=10,30,C2_10_6,3,30,16637.56,29,16863.71
+v3-pool10,--set alns.max_pool_ejections=10,30,R1_10_1,1,100,54802.14,100,53380.18
+v3-pool10,--set alns.max_pool_ejections=10,30,R1_10_1,2,100,54840.74,100,53380.18
+v3-pool10,--set alns.max_pool_ejections=10,30,R1_10_1,3,100,54838.0,100,53380.18
+v3-pool10,--set alns.max_pool_ejections=10,30,R1_10_5,1,91,57555.48,91,50445.39
+v3-pool10,--set alns.max_pool_ejections=10,30,R1_10_5,2,91,58683.78,91,50445.39
+v3-pool10,--set alns.max_pool_ejections=10,30,R1_10_5,3,91,56625.26,91,50445.39
+v3-pool10,--set alns.max_pool_ejections=10,30,R2_10_1,1,19,43920.07,19,42182.57
+v3-pool10,--set alns.max_pool_ejections=10,30,R2_10_1,2,19,43658.01,19,42182.57
+v3-pool10,--set alns.max_pool_ejections=10,30,R2_10_1,3,19,43730.38,19,42182.57
+v3-pool10,--set alns.max_pool_ejections=10,30,R2_10_5,1,19,37304.71,19,36216.05
+v3-pool10,--set alns.max_pool_ejections=10,30,R2_10_5,2,19,37625.57,19,36216.05
+v3-pool10,--set alns.max_pool_ejections=10,30,R2_10_5,3,19,37085.89,19,36216.05
+v3-pool10,--set alns.max_pool_ejections=10,30,RC1_10_1,1,90,48264.84,90,45830.62
+v3-pool10,--set alns.max_pool_ejections=10,30,RC1_10_1,2,90,48300.27,90,45830.62
+v3-pool10,--set alns.max_pool_ejections=10,30,RC1_10_1,3,90,48653.9,90,45830.62
+v3-pool10,--set alns.max_pool_ejections=10,30,RC1_10_5,1,90,47618.13,90,45069.37
+v3-pool10,--set alns.max_pool_ejections=10,30,RC1_10_5,2,90,47300.46,90,45069.37
+v3-pool10,--set alns.max_pool_ejections=10,30,RC1_10_5,3,90,47302.03,90,45069.37
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_1,1,21,31274.27,20,30276.27
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_1,2,20,31086.94,20,30276.27
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_1,3,20,31282.29,20,30276.27
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_5,1,18,28471.06,18,27067.04
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_5,2,18,28033.58,18,27067.04
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_5,3,18,28123.13,18,27067.04
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_9,1,18,23819.43,18,22919.42
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_9,2,18,24024.26,18,22919.42
+v3-pool10,--set alns.max_pool_ejections=10,30,RC2_10_9,3,18,23639.61,18,22919.42
+v3-poolnear,,30,C1_10_2,1,94,41646.14,90,42222.96
+v3-poolnear,,30,C1_10_2,2,94,41575.14,90,42222.96
+v3-poolnear,,30,C1_10_2,3,93,41716.13,90,42222.96
+v3-poolnear,,30,C1_10_6,1,100,42477.65,99,43830.21
+v3-poolnear,,30,C1_10_6,2,100,42477.65,99,43830.21
+v3-poolnear,,30,C1_10_6,3,100,42478.63,99,43830.21
+v3-poolnear,,30,C2_10_3,1,29,16730.91,28,16829.47
+v3-poolnear,,30,C2_10_3,2,29,16699.65,28,16829.47
+v3-poolnear,,30,C2_10_3,3,30,16175.28,28,16829.47
+v3-poolnear,,30,C2_10_6,1,30,16393.75,29,16863.71
+v3-poolnear,,30,C2_10_6,2,30,16381.32,29,16863.71
+v3-poolnear,,30,C2_10_6,3,30,16435.8,29,16863.71
+v3-poolnear,,30,R1_10_1,1,100,55001.6,100,53380.18
+v3-poolnear,,30,R1_10_1,2,100,54780.07,100,53380.18
+v3-poolnear,,30,R1_10_1,3,100,54703.21,100,53380.18
+v3-poolnear,,30,R1_10_5,1,91,58623.5,91,50445.39
+v3-poolnear,,30,R1_10_5,2,91,59238.02,91,50445.39
+v3-poolnear,,30,R1_10_5,3,91,57710.64,91,50445.39
+v3-poolnear,,30,R2_10_1,1,19,43577.48,19,42182.57
+v3-poolnear,,30,R2_10_1,2,19,44284.7,19,42182.57
+v3-poolnear,,30,R2_10_1,3,19,43294.41,19,42182.57
+v3-poolnear,,30,R2_10_5,1,19,37622.36,19,36216.05
+v3-poolnear,,30,R2_10_5,2,19,37479.58,19,36216.05
+v3-poolnear,,30,R2_10_5,3,19,37329.93,19,36216.05
+v3-poolnear,,30,RC1_10_1,1,90,48168.46,90,45830.62
+v3-poolnear,,30,RC1_10_1,2,90,48644.22,90,45830.62
+v3-poolnear,,30,RC1_10_1,3,90,48217.94,90,45830.62
+v3-poolnear,,30,RC1_10_5,1,90,47698.07,90,45069.37
+v3-poolnear,,30,RC1_10_5,2,90,47109.32,90,45069.37
+v3-poolnear,,30,RC1_10_5,3,90,47369.57,90,45069.37
+v3-poolnear,,30,RC2_10_1,1,21,31149.54,20,30276.27
+v3-poolnear,,30,RC2_10_1,2,20,31027.06,20,30276.27
+v3-poolnear,,30,RC2_10_1,3,20,31255.38,20,30276.27
+v3-poolnear,,30,RC2_10_5,1,18,27968.07,18,27067.04
+v3-poolnear,,30,RC2_10_5,2,18,28351.51,18,27067.04
+v3-poolnear,,30,RC2_10_5,3,18,28034.99,18,27067.04
+v3-poolnear,,30,RC2_10_9,1,18,23925.76,18,22919.42
+v3-poolnear,,30,RC2_10_9,2,18,23968.9,18,22919.42
+v3-poolnear,,30,RC2_10_9,3,18,23958.44,18,22919.42
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C1_10_2,1,93,41583.85,90,42222.96
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C1_10_2,2,93,41680.02,90,42222.96
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C1_10_2,3,94,41611.03,90,42222.96
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C1_10_6,1,100,42478.63,99,43830.21
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C1_10_6,2,100,42479.27,99,43830.21
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C1_10_6,3,100,42478.63,99,43830.21
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C2_10_3,1,29,16601.22,28,16829.47
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C2_10_3,2,29,16617.28,28,16829.47
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C2_10_3,3,29,16456.28,28,16829.47
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C2_10_6,1,30,16411.21,29,16863.71
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C2_10_6,2,30,16387.34,29,16863.71
+v3-pn-elim5000,--set alns.elimination_period=5000,30,C2_10_6,3,30,16393.01,29,16863.71
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R1_10_1,1,100,55177.79,100,53380.18
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R1_10_1,2,100,54844.36,100,53380.18
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R1_10_1,3,100,54874.73,100,53380.18
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R1_10_5,1,91,58743.37,91,50445.39
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R1_10_5,2,91,58998.49,91,50445.39
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R1_10_5,3,91,57896.22,91,50445.39
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R2_10_1,1,19,43898.06,19,42182.57
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R2_10_1,2,19,43778.92,19,42182.57
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R2_10_1,3,19,43755.94,19,42182.57
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R2_10_5,1,19,37235.86,19,36216.05
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R2_10_5,2,19,37366.92,19,36216.05
+v3-pn-elim5000,--set alns.elimination_period=5000,30,R2_10_5,3,19,37422.34,19,36216.05
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC1_10_1,1,90,48261.55,90,45830.62
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC1_10_1,2,90,48103.83,90,45830.62
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC1_10_1,3,90,48096.47,90,45830.62
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC1_10_5,1,90,47807.39,90,45069.37
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC1_10_5,2,90,47469.27,90,45069.37
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC1_10_5,3,90,47375.71,90,45069.37
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_1,1,21,30521.21,20,30276.27
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_1,2,20,31053.95,20,30276.27
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_1,3,20,31116.64,20,30276.27
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_5,1,18,28104.98,18,27067.04
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_5,2,18,27900.11,18,27067.04
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_5,3,18,28288.08,18,27067.04
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_9,1,18,23873.63,18,22919.42
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_9,2,18,23927.92,18,22919.42
+v3-pn-elim5000,--set alns.elimination_period=5000,30,RC2_10_9,3,18,23926.88,18,22919.42
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C1_10_2,1,94,41581.17,90,42222.96
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C1_10_2,2,95,41805.76,90,42222.96
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C1_10_2,3,94,41608.15,90,42222.96
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C1_10_6,1,100,42478.64,99,43830.21
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C1_10_6,2,100,42478.64,99,43830.21
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C1_10_6,3,100,42478.64,99,43830.21
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C2_10_3,1,29,16468.76,28,16829.47
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C2_10_3,2,29,16592.33,28,16829.47
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C2_10_3,3,29,16548.47,28,16829.47
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C2_10_6,1,30,16400.22,29,16863.71
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C2_10_6,2,30,16369.78,29,16863.71
+v3-pn-elim20000,--set alns.elimination_period=20000,30,C2_10_6,3,30,16408.83,29,16863.71
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R1_10_1,1,100,55194.58,100,53380.18
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R1_10_1,2,100,55035.36,100,53380.18
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R1_10_1,3,100,54925.17,100,53380.18
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R1_10_5,1,91,58352.46,91,50445.39
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R1_10_5,2,91,57609.32,91,50445.39
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R1_10_5,3,91,57519.11,91,50445.39
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R2_10_1,1,19,43551.37,19,42182.57
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R2_10_1,2,19,43769.86,19,42182.57
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R2_10_1,3,19,43272.63,19,42182.57
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R2_10_5,1,19,37472.45,19,36216.05
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R2_10_5,2,19,37178.95,19,36216.05
+v3-pn-elim20000,--set alns.elimination_period=20000,30,R2_10_5,3,19,37901.88,19,36216.05
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC1_10_1,1,90,48505.68,90,45830.62
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC1_10_1,2,90,48382.68,90,45830.62
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC1_10_1,3,90,48861.31,90,45830.62
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC1_10_5,1,90,47601.17,90,45069.37
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC1_10_5,2,90,47331.96,90,45069.37
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC1_10_5,3,90,47174.43,90,45069.37
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_1,1,21,30964.56,20,30276.27
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_1,2,20,31657.52,20,30276.27
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_1,3,20,31148.88,20,30276.27
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_5,1,18,28052.83,18,27067.04
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_5,2,18,28236.83,18,27067.04
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_5,3,18,28305.86,18,27067.04
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_9,1,18,23650.53,18,22919.42
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_9,2,18,23789.32,18,22919.42
+v3-pn-elim20000,--set alns.elimination_period=20000,30,RC2_10_9,3,18,23849.55,18,22919.42
+mt8-indep,,30,C1_10_2,1,93,41621.1,90,42222.96
+mt8-indep,,30,C1_10_2,2,93,41563.16,90,42222.96
+mt8-indep,,30,R1_10_1,1,100,54785.48,100,53380.18
+mt8-indep,,30,R1_10_1,2,100,54787.1,100,53380.18
+mt8-indep,,30,R2_10_1,1,19,43187.48,19,42182.57
+mt8-indep,,30,R2_10_1,2,19,43126.86,19,42182.57
+mt8-indep,,30,RC1_10_1,1,90,47972.56,90,45830.62
+mt8-indep,,30,RC1_10_1,2,90,47962.25,90,45830.62
+mt8-indep,,30,RC2_10_1,1,20,31130.05,20,30276.27
+mt8-indep,,30,RC2_10_1,2,20,31042.03,20,30276.27
+mt8-indep,,30,RC2_10_9,1,18,23729.28,18,22919.42
+mt8-indep,,30,RC2_10_9,2,18,23780.68,18,22919.42
+mt8-ex3,--set exchange.seconds=3,30,C1_10_2,1,93,41539.05,90,42222.96
+mt8-ex3,--set exchange.seconds=3,30,C1_10_2,2,93,41624.0,90,42222.96
+mt8-ex3,--set exchange.seconds=3,30,R1_10_1,1,100,54577.11,100,53380.18
+mt8-ex3,--set exchange.seconds=3,30,R1_10_1,2,100,54683.11,100,53380.18
+mt8-ex3,--set exchange.seconds=3,30,R2_10_1,1,19,43027.77,19,42182.57
+mt8-ex3,--set exchange.seconds=3,30,R2_10_1,2,19,43154.34,19,42182.57
+mt8-ex3,--set exchange.seconds=3,30,RC1_10_1,1,90,47553.87,90,45830.62
+mt8-ex3,--set exchange.seconds=3,30,RC1_10_1,2,90,48067.58,90,45830.62
+mt8-ex3,--set exchange.seconds=3,30,RC2_10_1,1,20,30969.35,20,30276.27
+mt8-ex3,--set exchange.seconds=3,30,RC2_10_1,2,20,31276.11,20,30276.27
+mt8-ex3,--set exchange.seconds=3,30,RC2_10_9,1,18,23618.55,18,22919.42
+mt8-ex3,--set exchange.seconds=3,30,RC2_10_9,2,18,23697.76,18,22919.42
+mt8-ex8,--set exchange.seconds=8,30,C1_10_2,1,93,41642.82,90,42222.96
+mt8-ex8,--set exchange.seconds=8,30,C1_10_2,2,93,41642.5,90,42222.96
+mt8-ex8,--set exchange.seconds=8,30,R1_10_1,1,100,54693.89,100,53380.18
+mt8-ex8,--set exchange.seconds=8,30,R1_10_1,2,100,54586.52,100,53380.18
+mt8-ex8,--set exchange.seconds=8,30,R2_10_1,1,19,43108.01,19,42182.57
+mt8-ex8,--set exchange.seconds=8,30,R2_10_1,2,19,43363.98,19,42182.57
+mt8-ex8,--set exchange.seconds=8,30,RC1_10_1,1,90,47956.81,90,45830.62
+mt8-ex8,--set exchange.seconds=8,30,RC1_10_1,2,90,47783.67,90,45830.62
+mt8-ex8,--set exchange.seconds=8,30,RC2_10_1,1,20,30874.45,20,30276.27
+mt8-ex8,--set exchange.seconds=8,30,RC2_10_1,2,20,31364.56,20,30276.27
+mt8-ex8,--set exchange.seconds=8,30,RC2_10_9,1,18,23777.0,18,22919.42
+mt8-ex8,--set exchange.seconds=8,30,RC2_10_9,2,18,23667.47,18,22919.42
+long-base,,120.0,C1_10_2,1,92,41887.97,90,42222.96
+long-base,,120.0,C1_10_2,2,93,41553.33,90,42222.96
+long-base,,120.0,R1_10_1,1,100,54389.43,100,53380.18
+long-base,,120.0,R1_10_1,2,100,54392.08,100,53380.18
+long-base,,120.0,R2_10_1,1,19,43152.76,19,42182.57
+long-base,,120.0,R2_10_1,2,19,43323.19,19,42182.57
+long-base,,120.0,RC1_10_1,1,90,47304.69,90,45830.62
+long-base,,120.0,RC1_10_1,2,90,47033.05,90,45830.62
+long-base,,120.0,RC2_10_1,1,20,31090.74,20,30276.27
+long-base,,120.0,RC2_10_1,2,20,30939.46,20,30276.27
+long-base,,120.0,RC2_10_9,1,18,23529.34,18,22919.42
+long-base,,120.0,RC2_10_9,2,18,23672.98,18,22919.42
+long-nb,--set nb.enabled=1,120.0,C1_10_2,1,93,41550.84,90,42222.96
+long-nb,--set nb.enabled=1,120.0,C1_10_2,2,92,41913.95,90,42222.96
+long-nb,--set nb.enabled=1,120.0,R1_10_1,1,100,54496.6,100,53380.18
+long-nb,--set nb.enabled=1,120.0,R1_10_1,2,100,54561.98,100,53380.18
+long-nb,--set nb.enabled=1,120.0,R2_10_1,1,19,43559.56,19,42182.57
+long-nb,--set nb.enabled=1,120.0,R2_10_1,2,19,43356.88,19,42182.57
+long-nb,--set nb.enabled=1,120.0,RC1_10_1,1,90,47342.9,90,45830.62
+long-nb,--set nb.enabled=1,120.0,RC1_10_1,2,90,47166.9,90,45830.62
+long-nb,--set nb.enabled=1,120.0,RC2_10_1,1,20,31048.42,20,30276.27
+long-nb,--set nb.enabled=1,120.0,RC2_10_1,2,20,30813.51,20,30276.27
+long-nb,--set nb.enabled=1,120.0,RC2_10_9,1,18,23730.11,18,22919.42
+long-nb,--set nb.enabled=1,120.0,RC2_10_9,2,18,23761.71,18,22919.42
+L-base,,120.0,C1_10_2,1,93,41529.0,90,42222.96
+L-base,,120.0,C1_10_2,2,94,41540.93,90,42222.96
+L-base,,120.0,C1_10_6,1,100,42477.66,99,43830.21
+L-base,,120.0,C1_10_6,2,100,42477.66,99,43830.21
+L-base,,120.0,C2_10_3,1,29,16529.69,28,16829.47
+L-base,,120.0,C2_10_3,2,29,16458.77,28,16829.47
+L-base,,120.0,C2_10_6,1,30,16365.42,29,16863.71
+L-base,,120.0,C2_10_6,2,30,16394.81,29,16863.71
+L-base,,120.0,R1_10_1,1,100,54436.08,100,53380.18
+L-base,,120.0,R1_10_1,2,100,54408.79,100,53380.18
+L-base,,120.0,R1_10_5,1,91,54470.32,91,50445.39
+L-base,,120.0,R1_10_5,2,91,54884.04,91,50445.39
+L-base,,120.0,R2_10_1,1,19,43225.08,19,42182.57
+L-base,,120.0,R2_10_1,2,19,43330.36,19,42182.57
+L-base,,120.0,R2_10_5,1,19,37071.83,19,36216.05
+L-base,,120.0,R2_10_5,2,19,37130.2,19,36216.05
+L-base,,120.0,RC1_10_1,1,90,47533.63,90,45830.62
+L-base,,120.0,RC1_10_1,2,90,47642.65,90,45830.62
+L-base,,120.0,RC1_10_5,1,90,46546.41,90,45069.37
+L-base,,120.0,RC1_10_5,2,90,46493.2,90,45069.37
+L-base,,120.0,RC2_10_1,1,20,31125.13,20,30276.27
+L-base,,120.0,RC2_10_1,2,20,31108.17,20,30276.27
+L-base,,120.0,RC2_10_5,1,18,28282.28,18,27067.04
+L-base,,120.0,RC2_10_5,2,18,28278.06,18,27067.04
+L-base,,120.0,RC2_10_9,1,18,23765.61,18,22919.42
+L-base,,120.0,RC2_10_9,2,18,23845.12,18,22919.42
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,C1_10_2,1,93,41792.69,90,42222.96
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,C1_10_2,2,92,41901.4,90,42222.96
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,C1_10_6,1,100,42477.66,99,43830.21
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,C1_10_6,2,100,42477.66,99,43830.21
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,C2_10_3,1,29,16478.71,28,16829.47
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,C2_10_3,2,29,16539.12,28,16829.47
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,C2_10_6,1,30,16405.97,29,16863.71
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,C2_10_6,2,30,16383.69,29,16863.71
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,R1_10_1,1,100,54681.9,100,53380.18
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,R1_10_1,2,100,54567.23,100,53380.18
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,R1_10_5,1,91,55852.9,91,50445.39
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,R1_10_5,2,91,56274.32,91,50445.39
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,R2_10_1,1,19,43379.9,19,42182.57
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,R2_10_1,2,19,43369.87,19,42182.57
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,R2_10_5,1,19,37181.63,19,36216.05
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,R2_10_5,2,19,37256.25,19,36216.05
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC1_10_1,1,90,47273.79,90,45830.62
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC1_10_1,2,90,47744.64,90,45830.62
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC1_10_5,1,90,46595.17,90,45069.37
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC1_10_5,2,90,46857.62,90,45069.37
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC2_10_1,1,21,30506.35,20,30276.27
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC2_10_1,2,21,30675.48,20,30276.27
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC2_10_5,1,18,27892.27,18,27067.04
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC2_10_5,2,18,27889.3,18,27067.04
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC2_10_9,1,18,23673.84,18,22919.42
+L-nb30,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0,120.0,RC2_10_9,2,18,23855.8,18,22919.42
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,C1_10_2,1,92,41907.42,90,42222.96
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,C1_10_2,2,92,41919.92,90,42222.96
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,C1_10_6,1,100,42477.65,99,43830.21
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,C1_10_6,2,100,42478.63,99,43830.21
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,C2_10_3,1,29,16714.51,28,16829.47
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,C2_10_3,2,29,16793.63,28,16829.47
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,C2_10_6,1,30,16404.14,29,16863.71
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,C2_10_6,2,30,16396.04,29,16863.71
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,R1_10_1,1,100,54815.81,100,53380.18
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,R1_10_1,2,100,54652.18,100,53380.18
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,R1_10_5,1,91,56619.73,91,50445.39
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,R1_10_5,2,91,56318.67,91,50445.39
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,R2_10_1,1,19,43373.03,19,42182.57
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,R2_10_1,2,19,43890.99,19,42182.57
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,R2_10_5,1,19,37520.11,19,36216.05
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,R2_10_5,2,19,37347.82,19,36216.05
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC1_10_1,1,90,48065.34,90,45830.62
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC1_10_1,2,90,47518.65,90,45830.62
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC1_10_5,1,90,46880.44,90,45069.37
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC1_10_5,2,90,46710.42,90,45069.37
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC2_10_1,1,21,30416.31,20,30276.27
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC2_10_1,2,21,30704.73,20,30276.27
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC2_10_5,1,18,27811.52,18,27067.04
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC2_10_5,2,18,28188.6,18,27067.04
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC2_10_9,1,18,23814.14,18,22919.42
+L-nb50,--set nb.enabled=1 --set fleet.enabled=0 --set elim.max_ejections=0 --set elim.share=0.5,120.0,RC2_10_9,2,18,23648.91,18,22919.42
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,C1_10_2,1,93,41722.93,90,42222.96
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,C1_10_2,2,93,41710.32,90,42222.96
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,C1_10_6,1,100,42478.64,99,43830.21
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,C1_10_6,2,100,42477.65,99,43830.21
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,C2_10_3,1,29,16445.1,28,16829.47
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,C2_10_3,2,29,16545.25,28,16829.47
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,C2_10_6,1,30,16386.49,29,16863.71
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,C2_10_6,2,30,16407.58,29,16863.71
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,R1_10_1,1,100,54681.54,100,53380.18
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,R1_10_1,2,100,54845.27,100,53380.18
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,R1_10_5,1,91,56915.56,91,50445.39
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,R1_10_5,2,91,56110.08,91,50445.39
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,R2_10_1,1,19,43796.26,19,42182.57
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,R2_10_1,2,19,43348.79,19,42182.57
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,R2_10_5,1,19,37441.61,19,36216.05
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,R2_10_5,2,19,37441.71,19,36216.05
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC1_10_1,1,90,47383.43,90,45830.62
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC1_10_1,2,90,47478.56,90,45830.62
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC1_10_5,1,90,46665.02,90,45069.37
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC1_10_5,2,90,46461.92,90,45069.37
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC2_10_1,1,21,30178.59,20,30276.27
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC2_10_1,2,21,30366.84,20,30276.27
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC2_10_5,1,18,28096.08,18,27067.04
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC2_10_5,2,18,28275.98,18,27067.04
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC2_10_9,1,18,23626.59,18,22919.42
+L-combo,--set nb.enabled=1 --set fleet.max_stagnation=20000,120.0,RC2_10_9,2,18,23632.46,18,22919.42
+v3-default,,30,C1_10_2,1,93,41917.81,90,42222.96
+v3-default,,30,C1_10_2,2,94,41728.91,90,42222.96
+v3-default,,30,C1_10_2,3,94,41629.24,90,42222.96
+v3-default,,30,C1_10_6,1,100,42479.78,99,43830.21
+v3-default,,30,C1_10_6,2,100,42479.78,99,43830.21
+v3-default,,30,C1_10_6,3,100,42478.64,99,43830.21
+v3-default,,30,C2_10_3,1,29,16743.99,28,16829.47
+v3-default,,30,C2_10_3,2,29,16635.22,28,16829.47
+v3-default,,30,C2_10_3,3,29,16489.74,28,16829.47
+v3-default,,30,C2_10_6,1,30,16415.35,29,16863.71
+v3-default,,30,C2_10_6,2,30,16438.96,29,16863.71
+v3-default,,30,C2_10_6,3,30,16419.83,29,16863.71
+v3-default,,30,R1_10_1,1,100,55237.72,100,53380.18
+v3-default,,30,R1_10_1,2,100,55395.58,100,53380.18
+v3-default,,30,R1_10_1,3,100,55271.4,100,53380.18
+v3-default,,30,R1_10_5,1,91,60637.02,91,50445.39
+v3-default,,30,R1_10_5,2,91,64985.61,91,50445.39
+v3-default,,30,R1_10_5,3,91,61624.63,91,50445.39
+v3-default,,30,R2_10_1,1,19,43471.0,19,42182.57
+v3-default,,30,R2_10_1,2,19,44922.14,19,42182.57
+v3-default,,30,R2_10_1,3,19,44013.74,19,42182.57
+v3-default,,30,R2_10_5,1,19,37542.99,19,36216.05
+v3-default,,30,R2_10_5,2,19,37450.02,19,36216.05
+v3-default,,30,R2_10_5,3,19,37791.02,19,36216.05
+v3-default,,30,RC1_10_1,1,90,48927.46,90,45830.62
+v3-default,,30,RC1_10_1,2,90,49560.25,90,45830.62
+v3-default,,30,RC1_10_1,3,90,49136.47,90,45830.62
+v3-default,,30,RC1_10_5,1,90,48410.68,90,45069.37
+v3-default,,30,RC1_10_5,2,90,48063.66,90,45069.37
+v3-default,,30,RC1_10_5,3,90,48024.05,90,45069.37
+v3-default,,30,RC2_10_1,1,22,30541.25,20,30276.27
+v3-default,,30,RC2_10_1,2,21,30861.6,20,30276.27
+v3-default,,30,RC2_10_1,3,21,30521.36,20,30276.27
+v3-default,,30,RC2_10_5,1,18,28572.42,18,27067.04
+v3-default,,30,RC2_10_5,2,18,28836.4,18,27067.04
+v3-default,,30,RC2_10_5,3,18,28306.99,18,27067.04
+v3-default,,30,RC2_10_9,1,18,23746.4,18,22919.42
+v3-default,,30,RC2_10_9,2,18,24186.52,18,22919.42
+v3-default,,30,RC2_10_9,3,18,24074.06,18,22919.42
+v3-stag100k,--set fleet.max_stagnation=100000,30,C1_10_2,1,94,41765.47,90,42222.96
+v3-stag100k,--set fleet.max_stagnation=100000,30,C1_10_2,2,94,41575.97,90,42222.96
+v3-stag100k,--set fleet.max_stagnation=100000,30,C1_10_2,3,94,41637.08,90,42222.96
+v3-stag100k,--set fleet.max_stagnation=100000,30,C1_10_6,1,100,42478.64,99,43830.21
+v3-stag100k,--set fleet.max_stagnation=100000,30,C1_10_6,2,100,42480.17,99,43830.21
+v3-stag100k,--set fleet.max_stagnation=100000,30,C1_10_6,3,100,42478.8,99,43830.21
+v3-stag100k,--set fleet.max_stagnation=100000,30,C2_10_3,1,29,16456.73,28,16829.47
+v3-stag100k,--set fleet.max_stagnation=100000,30,C2_10_3,2,29,16807.72,28,16829.47
+v3-stag100k,--set fleet.max_stagnation=100000,30,C2_10_3,3,29,16603.07,28,16829.47
+v3-stag100k,--set fleet.max_stagnation=100000,30,C2_10_6,1,30,16406.6,29,16863.71
+v3-stag100k,--set fleet.max_stagnation=100000,30,C2_10_6,2,30,16654.96,29,16863.71
+v3-stag100k,--set fleet.max_stagnation=100000,30,C2_10_6,3,30,16753.76,29,16863.71
+v3-stag100k,--set fleet.max_stagnation=100000,30,R1_10_1,1,100,55549.11,100,53380.18
+v3-stag100k,--set fleet.max_stagnation=100000,30,R1_10_1,2,100,55282.97,100,53380.18
+v3-stag100k,--set fleet.max_stagnation=100000,30,R1_10_1,3,100,55001.76,100,53380.18
+v3-stag100k,--set fleet.max_stagnation=100000,30,R1_10_5,1,91,64051.45,91,50445.39
+v3-stag100k,--set fleet.max_stagnation=100000,30,R1_10_5,2,91,61360.62,91,50445.39
+v3-stag100k,--set fleet.max_stagnation=100000,30,R1_10_5,3,91,60634.73,91,50445.39
+v3-stag100k,--set fleet.max_stagnation=100000,30,R2_10_1,1,19,44031.56,19,42182.57
+v3-stag100k,--set fleet.max_stagnation=100000,30,R2_10_1,2,19,43702.56,19,42182.57
+v3-stag100k,--set fleet.max_stagnation=100000,30,R2_10_1,3,19,43946.25,19,42182.57
+v3-stag100k,--set fleet.max_stagnation=100000,30,R2_10_5,1,19,37784.58,19,36216.05
+v3-stag100k,--set fleet.max_stagnation=100000,30,R2_10_5,2,19,37682.18,19,36216.05
+v3-stag100k,--set fleet.max_stagnation=100000,30,R2_10_5,3,19,37421.41,19,36216.05
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC1_10_1,1,90,49208.27,90,45830.62
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC1_10_1,2,90,48760.59,90,45830.62
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC1_10_1,3,90,49070.04,90,45830.62
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC1_10_5,1,90,48008.36,90,45069.37
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC1_10_5,2,90,48383.6,90,45069.37
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC1_10_5,3,90,48170.48,90,45069.37
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_1,1,22,30247.97,20,30276.27
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_1,2,21,30732.46,20,30276.27
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_1,3,21,30598.01,20,30276.27
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_5,1,18,28448.21,18,27067.04
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_5,2,18,28527.29,18,27067.04
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_5,3,18,28363.83,18,27067.04
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_9,1,18,23917.68,18,22919.42
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_9,2,18,23994.78,18,22919.42
+v3-stag100k,--set fleet.max_stagnation=100000,30,RC2_10_9,3,18,24443.05,18,22919.42
+all60-10s,,10.0,C1_10_1,1,100,42483.52,100,42478.95
+all60-10s,,10.0,C1_10_10,1,90,42099.89,90,39852.44
+all60-10s,,10.0,C1_10_2,1,94,42188.81,90,42222.96
+all60-10s,,10.0,C1_10_3,1,90,41339.7,90,40101.36
+all60-10s,,10.0,C1_10_4,1,90,40621.45,90,39468.6
+all60-10s,,10.0,C1_10_5,1,100,42479.49,100,42469.18
+all60-10s,,10.0,C1_10_6,1,100,42477.66,99,43830.21
+all60-10s,,10.0,C1_10_7,1,100,42480.09,97,43341.77
+all60-10s,,10.0,C1_10_8,1,96,42406.88,92,42629.91
+all60-10s,,10.0,C1_10_9,1,91,41611.54,90,40318.03
+all60-10s,,10.0,C2_10_1,1,30,16879.24,30,16879.24
+all60-10s,,10.0,C2_10_10,1,29,17226.27,28,15937.45
+all60-10s,,10.0,C2_10_2,1,30,17380.18,29,17126.39
+all60-10s,,10.0,C2_10_3,1,29,17241.78,28,16829.47
+all60-10s,,10.0,C2_10_4,1,29,16029.95,28,15607.48
+all60-10s,,10.0,C2_10_5,1,30,16771.75,30,16561.29
+all60-10s,,10.0,C2_10_6,1,30,16448.06,29,16863.71
+all60-10s,,10.0,C2_10_7,1,30,17052.11,29,17602.84
+all60-10s,,10.0,C2_10_8,1,29,16907.31,28,16512.43
+all60-10s,,10.0,C2_10_9,1,30,16895.11,28,17809.34
+all60-10s,,10.0,R1_10_1,1,100,55715.5,100,53380.18
+all60-10s,,10.0,R1_10_10,1,91,61207.53,91,47407.16
+all60-10s,,10.0,R1_10_2,1,91,66734.84,91,48232.67
+all60-10s,,10.0,R1_10_3,1,91,56336.34,91,44690.65
+all60-10s,,10.0,R1_10_4,1,91,47297.84,91,42463.74
+all60-10s,,10.0,R1_10_5,1,92,55897.86,91,50445.39
+all60-10s,,10.0,R1_10_6,1,91,60582.07,91,46929.17
+all60-10s,,10.0,R1_10_7,1,91,53763.37,91,43975.47
+all60-10s,,10.0,R1_10_8,1,91,46710.96,91,42288.5
+all60-10s,,10.0,R1_10_9,1,91,65766.68,91,49195.26
+all60-10s,,10.0,R2_10_1,1,19,44901.0,19,42182.57
+all60-10s,,10.0,R2_10_10,1,19,32036.55,19,30207.49
+all60-10s,,10.0,R2_10_2,1,19,35283.53,19,33411.21
+all60-10s,,10.0,R2_10_3,1,19,26273.19,19,24916.88
+all60-10s,,10.0,R2_10_4,1,19,19134.03,19,17851.96
+all60-10s,,10.0,R2_10_5,1,19,38186.43,19,36216.05
+all60-10s,,10.0,R2_10_6,1,19,31585.74,19,29978.02
+all60-10s,,10.0,R2_10_7,1,19,24818.17,19,23219.61
+all60-10s,,10.0,R2_10_8,1,19,18543.05,19,17442.29
+all60-10s,,10.0,R2_10_9,1,19,34935.98,19,32995.71
+all60-10s,,10.0,RC1_10_1,1,90,53387.46,90,45830.62
+all60-10s,,10.0,RC1_10_10,1,90,46992.94,90,43551.69
+all60-10s,,10.0,RC1_10_2,1,90,48203.58,90,43718.84
+all60-10s,,10.0,RC1_10_3,1,90,45060.54,90,42146.79
+all60-10s,,10.0,RC1_10_4,1,90,43416.61,90,41391.18
+all60-10s,,10.0,RC1_10_5,1,90,49132.57,90,45069.37
+all60-10s,,10.0,RC1_10_6,1,90,50314.02,90,44937.36
+all60-10s,,10.0,RC1_10_7,1,90,49032.55,90,44457.79
+all60-10s,,10.0,RC1_10_8,1,90,47945.09,90,43956.91
+all60-10s,,10.0,RC1_10_9,1,90,46903.46,90,43897.21
+all60-10s,,10.0,RC2_10_1,1,21,31511.8,20,30276.27
+all60-10s,,10.0,RC2_10_10,1,18,23164.78,18,21834.94
+all60-10s,,10.0,RC2_10_2,1,20,26932.16,18,26104.09
+all60-10s,,10.0,RC2_10_3,1,19,20808.12,18,19911.48
+all60-10s,,10.0,RC2_10_4,1,18,16904.55,18,15693.28
+all60-10s,,10.0,RC2_10_5,1,19,28096.33,18,27067.04
+all60-10s,,10.0,RC2_10_6,1,18,29125.27,18,26741.27
+all60-10s,,10.0,RC2_10_7,1,18,27416.53,18,24999.66
+all60-10s,,10.0,RC2_10_8,1,18,25781.71,18,23595.33
+all60-10s,,10.0,RC2_10_9,1,18,24811.38,18,22919.42
+hgs30,--search hgs,30,C1_10_2,1,96,42765.38,90,42222.96
+hgs30,--search hgs,30,C1_10_2,2,96,42516.48,90,42222.96
+hgs30,--search hgs,30,R1_10_1,1,100,62879.36,100,53380.18
+hgs30,--search hgs,30,R1_10_1,2,100,62629.65,100,53380.18
+hgs30,--search hgs,30,R2_10_1,1,19,53958.57,19,42182.57
+hgs30,--search hgs,30,R2_10_1,2,19,53759.05,19,42182.57
+hgs30,--search hgs,30,RC1_10_1,1,90,66803.49,90,45830.62
+hgs30,--search hgs,30,RC1_10_1,2,90,67298.19,90,45830.62
+hgs30,--search hgs,30,RC2_10_1,1,21,35300.45,20,30276.27
+hgs30,--search hgs,30,RC2_10_1,2,20,36379.33,20,30276.27
+hgs30,--search hgs,30,RC2_10_9,1,18,26938.39,18,22919.42
+hgs30,--search hgs,30,RC2_10_9,2,18,27035.98,18,22919.42
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,C1_10_2,1,94,41615.22,90,42222.96
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,C1_10_2,2,94,41534.05,90,42222.96
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,R1_10_1,1,100,54885.64,100,53380.18
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,R1_10_1,2,100,54940.06,100,53380.18
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,R2_10_1,1,19,43917.35,19,42182.57
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,R2_10_1,2,19,43793.52,19,42182.57
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,RC1_10_1,1,90,47757.29,90,45830.62
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,RC1_10_1,2,90,48460.04,90,45830.62
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,RC2_10_1,1,21,30973.07,20,30276.27
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,RC2_10_1,2,20,31812.61,20,30276.27
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,RC2_10_9,1,18,23832.0,18,22919.42
+hgshy30,--search hgs --set hgs.alns_share=0.7,30,RC2_10_9,2,18,24251.74,18,22919.42
+alns30-now,,30,C1_10_2,1,94,41671.49,90,42222.96
+alns30-now,,30,C1_10_2,2,94,41625.16,90,42222.96
+alns30-now,,30,R1_10_1,1,100,54747.06,100,53380.18
+alns30-now,,30,R1_10_1,2,100,54949.35,100,53380.18
+alns30-now,,30,R2_10_1,1,19,43418.54,19,42182.57
+alns30-now,,30,R2_10_1,2,19,43994.72,19,42182.57
+alns30-now,,30,RC1_10_1,1,90,48386.39,90,45830.62
+alns30-now,,30,RC1_10_1,2,90,47922.6,90,45830.62
+alns30-now,,30,RC2_10_1,1,21,31165.53,20,30276.27
+alns30-now,,30,RC2_10_1,2,20,31187.15,20,30276.27
+alns30-now,,30,RC2_10_9,1,18,23902.11,18,22919.42
+alns30-now,,30,RC2_10_9,2,18,24244.21,18,22919.42
+mt8-noport,--set elim.portfolio=0,30,C1_10_2,1,93,41659.13,90,42222.96
+mt8-noport,--set elim.portfolio=0,30,C1_10_6,1,100,42477.65,99,43830.21
+mt8-noport,--set elim.portfolio=0,30,C2_10_3,1,29,16394.81,28,16829.47
+mt8-noport,--set elim.portfolio=0,30,C2_10_6,1,30,16366.53,29,16863.71
+mt8-noport,--set elim.portfolio=0,30,R1_10_1,1,100,54672.17,100,53380.18
+mt8-noport,--set elim.portfolio=0,30,R1_10_5,1,91,56565.73,91,50445.39
+mt8-noport,--set elim.portfolio=0,30,R2_10_1,1,19,43017.87,19,42182.57
+mt8-noport,--set elim.portfolio=0,30,R2_10_5,1,19,37164.75,19,36216.05
+mt8-noport,--set elim.portfolio=0,30,RC1_10_1,1,90,47966.28,90,45830.62
+mt8-noport,--set elim.portfolio=0,30,RC1_10_5,1,90,46877.33,90,45069.37
+mt8-noport,--set elim.portfolio=0,30,RC2_10_1,1,20,31062.38,20,30276.27
+mt8-noport,--set elim.portfolio=0,30,RC2_10_5,1,18,27874.72,18,27067.04
+mt8-noport,--set elim.portfolio=0,30,RC2_10_9,1,18,23570.88,18,22919.42
+mt8-port,,30,C1_10_2,1,93,41645.7,90,42222.96
+mt8-port,,30,C1_10_6,1,100,42477.65,99,43830.21
+mt8-port,,30,C2_10_3,1,29,16446.18,28,16829.47
+mt8-port,,30,C2_10_6,1,30,16384.91,29,16863.71
+mt8-port,,30,R1_10_1,1,100,54744.54,100,53380.18
+mt8-port,,30,R1_10_5,1,91,56820.83,91,50445.39
+mt8-port,,30,R2_10_1,1,19,42953.02,19,42182.57
+mt8-port,,30,R2_10_5,1,19,37111.66,19,36216.05
+mt8-port,,30,RC1_10_1,1,90,47811.89,90,45830.62
+mt8-port,,30,RC1_10_5,1,90,46920.06,90,45069.37
+mt8-port,,30,RC2_10_1,1,20,30922.71,20,30276.27
+mt8-port,,30,RC2_10_5,1,18,27879.79,18,27067.04
+mt8-port,,30,RC2_10_9,1,18,23742.79,18,22919.42
+mt8L-noport,--set elim.portfolio=0,120.0,C1_10_2,1,92,41669.2,90,42222.96
+mt8L-noport,--set elim.portfolio=0,120.0,C1_10_6,1,100,42477.65,99,43830.21
+mt8L-noport,--set elim.portfolio=0,120.0,C2_10_3,1,29,16453.4,28,16829.47
+mt8L-noport,--set elim.portfolio=0,120.0,C2_10_6,1,30,16371.96,29,16863.71
+mt8L-noport,--set elim.portfolio=0,120.0,RC2_10_1,1,20,30601.4,20,30276.27
+mt8L-port,,120.0,C1_10_2,1,91,42074.93,90,42222.96
+mt8L-port,,120.0,C1_10_6,1,100,42477.65,99,43830.21
+mt8L-port,,120.0,C2_10_3,1,29,16383.51,28,16829.47
+mt8L-port,,120.0,C2_10_6,1,30,16376.02,29,16863.71
+mt8L-port,,120.0,RC2_10_1,1,20,30717.7,20,30276.27
+L1-auto,,120.0,C1_10_2,1,93,41536.39,90,42222.96
+L1-auto,,120.0,C1_10_2,2,93,41541.52,90,42222.96
+L1-auto,,120.0,C1_10_6,1,100,42477.66,99,43830.21
+L1-auto,,120.0,C1_10_6,2,100,42477.65,99,43830.21
+L1-auto,,120.0,C2_10_3,1,29,16543.85,28,16829.47
+L1-auto,,120.0,C2_10_3,2,29,16457.15,28,16829.47
+L1-auto,,120.0,C2_10_6,1,30,16387.95,29,16863.71
+L1-auto,,120.0,C2_10_6,2,30,16382.52,29,16863.71
+L1-auto,,120.0,RC2_10_1,1,20,31192.28,20,30276.27
+L1-auto,,120.0,RC2_10_1,2,20,31143.36,20,30276.27
+L1-noauto,--set elim.auto_gap=0,120.0,C1_10_2,1,93,41671.77,90,42222.96
+L1-noauto,--set elim.auto_gap=0,120.0,C1_10_2,2,93,41672.58,90,42222.96
+L1-noauto,--set elim.auto_gap=0,120.0,C1_10_6,1,100,42477.66,99,43830.21
+L1-noauto,--set elim.auto_gap=0,120.0,C1_10_6,2,100,42477.65,99,43830.21
+L1-noauto,--set elim.auto_gap=0,120.0,C2_10_3,1,29,16572.58,28,16829.47
+L1-noauto,--set elim.auto_gap=0,120.0,C2_10_3,2,29,16437.7,28,16829.47
+L1-noauto,--set elim.auto_gap=0,120.0,C2_10_6,1,30,16370.49,29,16863.71
+L1-noauto,--set elim.auto_gap=0,120.0,C2_10_6,2,30,16387.48,29,16863.71
+L1-noauto,--set elim.auto_gap=0,120.0,RC2_10_1,1,20,31018.41,20,30276.27
+L1-noauto,--set elim.auto_gap=0,120.0,RC2_10_1,2,20,31139.7,20,30276.27
+L1-auto10,--set elim.auto_gap=0.1,120.0,C1_10_2,1,92,41775.08,90,42222.96
+L1-auto10,--set elim.auto_gap=0.1,120.0,C1_10_2,2,91,42089.38,90,42222.96
+L1-auto10,--set elim.auto_gap=0.1,120.0,C1_10_6,1,100,42476.25,99,43830.21
+L1-auto10,--set elim.auto_gap=0.1,120.0,C1_10_6,2,100,42477.65,99,43830.21
+L1-auto10,--set elim.auto_gap=0.1,120.0,C2_10_3,1,29,16663.75,28,16829.47
+L1-auto10,--set elim.auto_gap=0.1,120.0,C2_10_3,2,29,16541.51,28,16829.47
+L1-auto10,--set elim.auto_gap=0.1,120.0,C2_10_6,1,30,16385.89,29,16863.71
+L1-auto10,--set elim.auto_gap=0.1,120.0,C2_10_6,2,30,16376.71,29,16863.71
+L1-auto10,--set elim.auto_gap=0.1,120.0,RC2_10_1,1,20,30978.0,20,30276.27
+L1-auto10,--set elim.auto_gap=0.1,120.0,RC2_10_1,2,20,31078.01,20,30276.27
+L1-auto10,--set elim.auto_gap=0.1,120.0,R1_10_1,1,100,54594.52,100,53380.18
+L1-auto10,--set elim.auto_gap=0.1,120.0,R1_10_1,2,100,54437.83,100,53380.18
+L1-auto0,--set elim.auto_gap=0,120.0,C1_10_2,1,93,41684.17,90,42222.96
+L1-auto0,--set elim.auto_gap=0,120.0,C1_10_2,2,93,41688.86,90,42222.96
+L1-auto0,--set elim.auto_gap=0,120.0,C1_10_6,1,100,42477.66,99,43830.21
+L1-auto0,--set elim.auto_gap=0,120.0,C1_10_6,2,100,42477.65,99,43830.21
+L1-auto0,--set elim.auto_gap=0,120.0,C2_10_3,1,29,16445.93,28,16829.47
+L1-auto0,--set elim.auto_gap=0,120.0,C2_10_3,2,29,16450.16,28,16829.47
+L1-auto0,--set elim.auto_gap=0,120.0,C2_10_6,1,30,16389.76,29,16863.71
+L1-auto0,--set elim.auto_gap=0,120.0,C2_10_6,2,30,16385.17,29,16863.71
+L1-auto0,--set elim.auto_gap=0,120.0,RC2_10_1,1,20,30969.98,20,30276.27
+L1-auto0,--set elim.auto_gap=0,120.0,RC2_10_1,2,20,31391.75,20,30276.27
+L1-auto0,--set elim.auto_gap=0,120.0,R1_10_1,1,100,54414.52,100,53380.18
+L1-auto0,--set elim.auto_gap=0,120.0,R1_10_1,2,100,54466.0,100,53380.18
+S-auto10,,30,C1_10_2,1,94,41609.81,90,42222.96
+S-auto10,,30,C1_10_2,2,94,41672.78,90,42222.96
+S-auto10,,30,C1_10_2,3,93,41784.54,90,42222.96
+S-auto10,,30,C1_10_6,1,100,42478.66,99,43830.21
+S-auto10,,30,C1_10_6,2,100,42478.63,99,43830.21
+S-auto10,,30,C1_10_6,3,100,42478.64,99,43830.21
+S-auto10,,30,C2_10_3,1,29,16494.73,28,16829.47
+S-auto10,,30,C2_10_3,2,29,16455.43,28,16829.47
+S-auto10,,30,C2_10_3,3,29,16424.92,28,16829.47
+S-auto10,,30,C2_10_6,1,30,16403.67,29,16863.71
+S-auto10,,30,C2_10_6,2,30,16406.42,29,16863.71
+S-auto10,,30,C2_10_6,3,30,16435.65,29,16863.71
+S-auto10,,30,RC2_10_1,1,21,30575.79,20,30276.27
+S-auto10,,30,RC2_10_1,2,20,31264.85,20,30276.27
+S-auto10,,30,RC2_10_1,3,20,31026.64,20,30276.27
+S-auto10,,30,R1_10_1,1,100,54869.65,100,53380.18
+S-auto10,,30,R1_10_1,2,100,54643.31,100,53380.18
+S-auto10,,30,R1_10_1,3,100,54689.94,100,53380.18
+S-auto0,--set elim.auto_gap=0,30,C1_10_2,1,93,41682.07,90,42222.96
+S-auto0,--set elim.auto_gap=0,30,C1_10_2,2,93,41690.41,90,42222.96
+S-auto0,--set elim.auto_gap=0,30,C1_10_2,3,94,41848.56,90,42222.96
+S-auto0,--set elim.auto_gap=0,30,C1_10_6,1,100,42477.66,99,43830.21
+S-auto0,--set elim.auto_gap=0,30,C1_10_6,2,100,42477.66,99,43830.21
+S-auto0,--set elim.auto_gap=0,30,C1_10_6,3,100,42478.63,99,43830.21
+S-auto0,--set elim.auto_gap=0,30,C2_10_3,1,29,16525.18,28,16829.47
+S-auto0,--set elim.auto_gap=0,30,C2_10_3,2,29,16524.86,28,16829.47
+S-auto0,--set elim.auto_gap=0,30,C2_10_3,3,29,16472.43,28,16829.47
+S-auto0,--set elim.auto_gap=0,30,C2_10_6,1,30,16430.92,29,16863.71
+S-auto0,--set elim.auto_gap=0,30,C2_10_6,2,30,16390.95,29,16863.71
+S-auto0,--set elim.auto_gap=0,30,C2_10_6,3,30,16760.14,29,16863.71
+S-auto0,--set elim.auto_gap=0,30,RC2_10_1,1,21,31316.85,20,30276.27
+S-auto0,--set elim.auto_gap=0,30,RC2_10_1,2,20,31175.04,20,30276.27
+S-auto0,--set elim.auto_gap=0,30,RC2_10_1,3,21,30711.27,20,30276.27
+S-auto0,--set elim.auto_gap=0,30,R1_10_1,1,100,55325.35,100,53380.18
+S-auto0,--set elim.auto_gap=0,30,R1_10_1,2,100,54698.05,100,53380.18
+S-auto0,--set elim.auto_gap=0,30,R1_10_1,3,100,54661.42,100,53380.18
+all60-auto,,10.0,C1_10_1,1,100,42483.52,100,42478.95
+all60-auto,,10.0,C1_10_10,1,90,40853.75,90,39852.44
+all60-auto,,10.0,C1_10_2,1,94,42057.25,90,42222.96
+all60-auto,,10.0,C1_10_3,1,90,40627.82,90,40101.36
+all60-auto,,10.0,C1_10_4,1,90,39747.99,90,39468.6
+all60-auto,,10.0,C1_10_5,1,100,42479.49,100,42469.18
+all60-auto,,10.0,C1_10_6,1,100,42477.66,99,43830.21
+all60-auto,,10.0,C1_10_7,1,100,42479.78,97,43341.77
+all60-auto,,10.0,C1_10_8,1,97,42392.89,92,42629.91
+all60-auto,,10.0,C1_10_9,1,91,41111.23,90,40318.03
+all60-auto,,10.0,C2_10_1,1,30,16882.07,30,16879.24
+all60-auto,,10.0,C2_10_10,1,29,16521.7,28,15937.45
+all60-auto,,10.0,C2_10_2,1,30,17003.7,29,17126.39
+all60-auto,,10.0,C2_10_3,1,29,16660.71,28,16829.47
+all60-auto,,10.0,C2_10_4,1,29,15959.54,28,15607.48
+all60-auto,,10.0,C2_10_5,1,30,16621.06,30,16561.29
+all60-auto,,10.0,C2_10_6,1,30,16584.04,29,16863.71
+all60-auto,,10.0,C2_10_7,1,30,16662.64,29,17602.84
+all60-auto,,10.0,C2_10_8,1,29,16753.08,28,16512.43
+all60-auto,,10.0,C2_10_9,1,30,16529.09,28,17809.34
+all60-auto,,10.0,R1_10_1,1,100,55126.37,100,53380.18
+all60-auto,,10.0,R1_10_10,1,91,58276.35,91,47407.16
+all60-auto,,10.0,R1_10_2,1,91,57602.68,91,48232.67
+all60-auto,,10.0,R1_10_3,1,91,51051.59,91,44690.65
+all60-auto,,10.0,R1_10_4,1,91,46054.23,91,42463.74
+all60-auto,,10.0,R1_10_5,1,91,63556.42,91,50445.39
+all60-auto,,10.0,R1_10_6,1,91,55547.94,91,46929.17
+all60-auto,,10.0,R1_10_7,1,91,49359.82,91,43975.47
+all60-auto,,10.0,R1_10_8,1,91,45010.5,91,42288.5
+all60-auto,,10.0,R1_10_9,1,91,60705.75,91,49195.26
+all60-auto,,10.0,R2_10_1,1,19,44283.68,19,42182.57
+all60-auto,,10.0,R2_10_10,1,19,31696.93,19,30207.49
+all60-auto,,10.0,R2_10_2,1,19,34672.41,19,33411.21
+all60-auto,,10.0,R2_10_3,1,19,25883.1,19,24916.88
+all60-auto,,10.0,R2_10_4,1,19,18935.61,19,17851.96
+all60-auto,,10.0,R2_10_5,1,19,37860.91,19,36216.05
+all60-auto,,10.0,R2_10_6,1,19,31010.32,19,29978.02
+all60-auto,,10.0,R2_10_7,1,19,24101.95,19,23219.61
+all60-auto,,10.0,R2_10_8,1,19,18022.72,19,17442.29
+all60-auto,,10.0,R2_10_9,1,19,34563.13,19,32995.71
+all60-auto,,10.0,RC1_10_1,1,90,50108.04,90,45830.62
+all60-auto,,10.0,RC1_10_10,1,90,46094.81,90,43551.69
+all60-auto,,10.0,RC1_10_2,1,90,46685.69,90,43718.84
+all60-auto,,10.0,RC1_10_3,1,90,44415.74,90,42146.79
+all60-auto,,10.0,RC1_10_4,1,90,42946.9,90,41391.18
+all60-auto,,10.0,RC1_10_5,1,90,48418.09,90,45069.37
+all60-auto,,10.0,RC1_10_6,1,90,47703.39,90,44937.36
+all60-auto,,10.0,RC1_10_7,1,90,47239.58,90,44457.79
+all60-auto,,10.0,RC1_10_8,1,90,46623.2,90,43956.91
+all60-auto,,10.0,RC1_10_9,1,90,46852.31,90,43897.21
+all60-auto,,10.0,RC2_10_1,1,22,30488.0,20,30276.27
+all60-auto,,10.0,RC2_10_10,1,18,23134.97,18,21834.94
+all60-auto,,10.0,RC2_10_2,1,19,27145.62,18,26104.09
+all60-auto,,10.0,RC2_10_3,1,18,21953.35,18,19911.48
+all60-auto,,10.0,RC2_10_4,1,18,16498.95,18,15693.28
+all60-auto,,10.0,RC2_10_5,1,18,29206.78,18,27067.04
+all60-auto,,10.0,RC2_10_6,1,18,28787.84,18,26741.27
+all60-auto,,10.0,RC2_10_7,1,18,26717.69,18,24999.66
+all60-auto,,10.0,RC2_10_8,1,18,25076.34,18,23595.33
+all60-auto,,10.0,RC2_10_9,1,18,24303.37,18,22919.42
+mt4-check,,15.0,C1_10_2,1,93,41653.93,90,42222.96
+mt4-check,,15.0,R1_10_1,1,100,54970.54,100,53380.18
+mt4-check,,15.0,R2_10_1,1,19,43340.7,19,42182.57
+mt4-check,,15.0,RC1_10_1,1,90,48390.43,90,45830.62
+mt4-check,,15.0,RC2_10_1,1,21,30491.42,20,30276.27
+mt4-check,,15.0,RC2_10_9,1,18,23786.41,18,22919.42
